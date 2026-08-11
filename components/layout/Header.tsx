@@ -49,7 +49,7 @@ export function Header({
               title="Quay lại danh sách mảng ảnh"
             >
               <ChevronLeft className="w-4 h-4 sm:w-5 sm:h-5 text-[#e5c158] group-hover:-translate-x-0.5 transition-transform" />
-              <span className="hidden xs:inline sm:inline tracking-wider">DANH SÁCH MẢNG ÁNH</span>
+              <span className="hidden xs:inline sm:inline tracking-wider">DANH SÁCH MẢNG ẢNH</span>
             </Link>
           )}
 
@@ -64,7 +64,7 @@ export function Header({
             </div>
             <div className="min-w-0">
               <h1 className="text-xs sm:text-sm md:text-base font-bold text-[#e5c158] tracking-wide uppercase leading-tight group-hover:text-amber-200 transition truncate">
-                THUYẾT MINH & NỘI DUNG MẢNG ÁNH
+                THUYẾT MINH & NỘI DUNG MẢNG ẢNH
               </h1>
               <p className="text-[9px] sm:text-[11px] font-semibold text-gray-200 uppercase tracking-widest truncate">
                 PHÒNG HỒ CHÍ MINH
@@ -111,7 +111,7 @@ export function Header({
       <QRModal
         isOpen={isQRModalOpen}
         onClose={() => setIsQRModalOpen(false)}
-        title={panelTitle || "THUYẾT MINH & NỘI DUNG MẢNG ÁNH"}
+        title={panelTitle || "THUYẾT MINH & NỘI DUNG MẢNG ẢNH"}
       />
     </header>
   );

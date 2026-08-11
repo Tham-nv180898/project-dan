@@ -4,8 +4,8 @@ export const PANELS_DATA: Panel[] = [
   {
     id: "MA-01",
     slug: "ma-01",
-    title: "MẢNG ÁNH 1: ĐẢNG CỘNG SẢN VIỆT NAM - NGƯỜI TỔ CHỨC VÀ LÃNH ĐẠO MỌI THẮNG LỢI CỦA CÁCH MẠNG VIỆT NAM",
-    shortTitle: "MẢNG ÁNH 1: ĐẢNG CỘNG SẢN VIỆT NAM",
+    title: "MẢNG ẢNH 1: ĐẢNG CỘNG SẢN VIỆT NAM - NGƯỜI TỔ CHỨC VÀ LÃNH ĐẠO MỌI THẮNG LỢI CỦA CÁCH MẠNG VIỆT NAM",
+    shortTitle: "MẢNG ẢNH 1: ĐẢNG CỘNG SẢN VIỆT NAM",
     description: "Kính thưa toàn thể các đồng chí! Trước mắt chúng ta là mảng ảnh với chủ đề “Đảng Cộng sản Việt Nam – Người tổ chức và lãnh đạo mọi thắng lợi của cách mạng Việt Nam” khái quát chặng đường lịch sử hơn 96 năm xây dựng...",
     content: `Kính thưa toàn thể các đồng chí!
 
@@ -34,8 +34,8 @@ Và minh chứng hùng hồn nhất, sống động nhất cho sự đúng đắ
   {
     id: "MA-02",
     slug: "ma-02",
-    title: "MẢNG ÁNH 2: VIỆT NAM ĐẤT NƯỚC CON NGƯỜI",
-    shortTitle: "MẢNG ÁNH 2: VIỆT NAM ĐẤT NƯỚC CON NGƯỜI",
+    title: "MẢNG ẢNH 2: VIỆT NAM ĐẤT NƯỚC CON NGƯỜI",
+    shortTitle: "MẢNG ẢNH 2: VIỆT NAM ĐẤT NƯỚC CON NGƯỜI",
     description: "Kính thưa Ban Giám khảo, thưa toàn thể các đồng chí! Đến với mảng ảnh mang chủ đề \"Việt Nam Đất nước Con người\", chúng ta sẽ cùng nhìn lại những nét khái quát nhất về Tổ quốc thân yêu...",
     content: `Kính thưa Ban Giám khảo, thưa toàn thể các đồng chí!
 
@@ -70,8 +70,8 @@ Cố đô Huế – thủ đô lịch sử của Việt Nam dưới triều đ�
   {
     id: "MA-03",
     slug: "ma-03",
-    title: "MẢNG ÁNH 3: CHỦ TỊCH HỒ CHÍ MINH - CUỘC ĐỜI VÀ SỰ NGHIỆP",
-    shortTitle: "MẢNG ÁNH 3: CHỦ TỊCH HỒ CHÍ MINH",
+    title: "MẢNG ẢNH 3: CHỦ TỊCH HỒ CHÍ MINH - CUỘC ĐỜI VÀ SỰ NGHIỆP",
+    shortTitle: "MẢNG ẢNH 3: CHỦ TỊCH HỒ CHÍ MINH",
     description: "Kính thưa toàn thể các đồng chí! Trước mắt chúng ta là mảng ảnh với chủ đề “Chủ tịch Hồ Chí Minh – Cuộc đời và sự nghiệp”. Dưới dòng chữ đỏ rực rỡ, trang trọng tựa như một lời thề sắt son: “PHÁT HUY BẢN CHẤT CAO ĐẸP ‘BỘ ĐỘI CỤ HỒ’”...",
     content: `Kính thưa toàn thể các đồng chí!
 
@@ -105,8 +105,8 @@ Như các đồng chí có thể quan sát, ở đây có rất nhiều những 
   {
     id: "MA-04",
     slug: "ma-04",
-    title: "MẢNG ÁNH 4: QUÂN ĐỘI TA TRUNG VỚI ĐẢNG, HIẾU VỚI DÂN, SẴN SÀNG CHIẾN ĐẤU, HI SINH VÌ ĐỘC LẬP TỰ DO CỦA TỔ QUỐC, VÌ CHỦ NGHĨA XÃ HỘI, NHIỆM VỤ NÀO CŨNG HOÀN THÀNH, KHÓ KHĂN NÀO CŨNG VƯỢT QUA, KẺ THÙ NÀO CŨNG ĐÁNH THẮNG",
-    shortTitle: "MẢNG ÁNH 4: QUÂN ĐỘI TA TRUNG VỚI ĐẢNG",
+    title: "MẢNG ẢNH 4: QUÂN ĐỘI TA TRUNG VỚI ĐẢNG, HIẾU VỚI DÂN, SẴN SÀNG CHIẾN ĐẤU, HI SINH VÌ ĐỘC LẬP TỰ DO CỦA TỔ QUỐC, VÌ CHỦ NGHĨA XÃ HỘI, NHIỆM VỤ NÀO CŨNG HOÀN THÀNH, KHÓ KHĂN NÀO CŨNG VƯỢT QUA, KẺ THÙ NÀO CŨNG ĐÁNH THẮNG",
+    shortTitle: "MẢNG ẢNH 4: QUÂN ĐỘI TA TRUNG VỚI ĐẢNG",
     description: "Kính thưa các đồng chí! Trưởng thành từ ngọn lửa cách mạng dưới sự dẫn dắt của Chủ tịch Hồ Chí Minh, Quân đội ta là minh chứng sống động cho sức mạnh của một dân tộc anh hùng. Trân trọng kính mời các đồng chí tham quan bảng ảnh...",
     content: `Kính thưa các đồng chí!
 
@@ -134,8 +134,8 @@ Thưa toàn thể các đồng chí, cách đây gần 82 năm, chấp hành ch�
   {
     id: "MA-05",
     slug: "ma-05",
-    title: "MẢNG ÁNH 5: TUỔI TRẺ QUÂN ĐỘI PHẤN ĐẤU XỨNG DANH “BỘ ĐỘI CỤ HỒ” THỜI KỲ MỚI",
-    shortTitle: "MẢNG ÁNH 5: TUỔI TRẺ QUÂN ĐỘI",
+    title: "MẢNG ẢNH 5: TUỔI TRẺ QUÂN ĐỘI PHẤN ĐẤU XỨNG DANH “BỘ ĐỘI CỤ HỒ” THỜI KỲ MỚI",
+    shortTitle: "MẢNG ẢNH 5: TUỔI TRẺ QUÂN ĐỘI",
     description: "Thưa toàn thể các đồng chí! Sinh thời, Chủ tịch Hồ Chí Minh luôn khẳng định: “Thanh niên là người chủ tương lai của nước nhà; thật vậy, nước nhà thịnh hay suy, yếu hay mạnh, một phần lớn phụ thuộc vào thanh niên”...",
     content: `Thưa toàn thể các đồng chí!
 
@@ -166,8 +166,8 @@ Truyền thống gắn bó đoàn kết trong lớp người cùng lứa tuổi,
   {
     id: "MA-06",
     slug: "ma-06",
-    title: "MẢNG ÁNH 6: ĐƠN VỊ CHÚNG TÔI",
-    shortTitle: "MẢNG ÁNH 6: ĐƠN VỊ CHÚNG TÔI",
+    title: "MẢNG ẢNH 6: ĐƠN VỊ CHÚNG TÔI",
+    shortTitle: "MẢNG ẢNH 6: ĐƠN VỊ CHÚNG TÔI",
     description: "Thưa toàn thể các đồng chí! Đối với mỗi quân nhân cách mạng, đơn vị không chỉ là nơi rèn luyện, công tác, mà còn là mái nhà chung, là điểm tựa tinh thần vô cùng thiêng liêng và vững chắc...",
     content: `Thưa toàn thể các đồng chí!
 

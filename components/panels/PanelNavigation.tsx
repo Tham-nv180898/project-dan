@@ -19,7 +19,7 @@ export function PanelNavigation({ prev, next }: PanelNavigationProps) {
         >
           <ChevronLeft className="w-4 h-4 flex-shrink-0 text-[#e5c158] group-hover:-translate-x-0.5 transition-transform" />
           <span className="truncate min-w-0">
-            <strong className="text-[#e5c158] font-bold uppercase tracking-wider mr-1">MẢNG ÁNH TRƯỚC:</strong>
+            <strong className="text-[#e5c158] font-bold uppercase tracking-wider mr-1">MẢNG ẢNH TRƯỚC:</strong>
             <span className="text-gray-300 font-normal">{prev.shortTitle}</span>
           </span>
         </Link>
@@ -34,7 +34,7 @@ export function PanelNavigation({ prev, next }: PanelNavigationProps) {
           className="flex items-center gap-2 px-4 py-2.5 bg-[#800000] hover:bg-[#9e0000] border border-[#b81d1d] hover:border-amber-400 rounded-full text-xs font-semibold text-white transition-all duration-200 shadow-md min-w-0 sm:max-w-[48%] sm:ml-auto justify-end group"
         >
           <span className="truncate min-w-0 text-right">
-            <strong className="text-[#ffe599] font-bold uppercase tracking-wider mr-1">MẢNG ÁNH KẾ TIẾP:</strong>
+            <strong className="text-[#ffe599] font-bold uppercase tracking-wider mr-1">MẢNG ẢNH KẾ TIẾP:</strong>
             <span className="text-white font-normal">{next.shortTitle}</span>
           </span>
           <ChevronRight className="w-4 h-4 flex-shrink-0 text-amber-300 group-hover:translate-x-0.5 transition-transform" />

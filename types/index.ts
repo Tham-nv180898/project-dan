@@ -2,7 +2,7 @@ export interface Panel {
   id: string;           // "MA-01"
   slug: string;         // "ma-01"
   title: string;
-  shortTitle: string;   // "MẢNG ÁNH 1: ĐẢNG CỘNG SẢN..."
+  shortTitle: string;   // "MẢNG ẢNH 1: ĐẢNG CỘNG SẢN..."
   description: string;
   content: string;      // Bài thuyết minh chi tiết
   imageSrc: string;     // Ảnh mảng ảnh

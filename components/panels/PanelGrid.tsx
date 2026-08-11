@@ -15,7 +15,7 @@ export function PanelGrid({ panels, totalCount }: PanelGridProps) {
       {/* Section Title */}
       <div className="mb-6 border-b border-gray-800 pb-3">
         <h2 className="text-lg md:text-xl font-extrabold text-[#e5c158] uppercase tracking-wider">
-          DANH SÁCH MẢNG ÁNH & BÀI THUYẾT MINH{" "}
+          DANH SÁCH MẢNG ẢNH & BÀI THUYẾT MINH{" "}
           <span className="text-gray-400 font-normal text-sm md:text-base lowercase">
             ({displayTotal} mảng ảnh)
           </span>
