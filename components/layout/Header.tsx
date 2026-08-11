@@ -34,22 +34,22 @@ export function Header({
 
   return (
     <header className="w-full bg-gradient-to-b from-[#8f0000] to-[#700000] border-t-2 border-b-2 border-[#c5a059] text-white shadow-xl sticky top-0 z-40">
-      <div className="max-w-7xl mx-auto px-3 sm:px-4 py-2 flex items-center justify-between gap-2 sm:gap-4">
+      <div className="max-w-7xl mx-auto px-2.5 sm:px-4 py-2 flex items-center justify-between gap-1.5 sm:gap-3">
         {/* Left: Back Button & Logo + Brand & Room */}
-        <div className="flex items-center gap-2 sm:gap-3 min-w-0 flex-1">
+        <div className="flex items-center gap-1.5 sm:gap-3 min-w-0 flex-1">
           {variant === "detail" && (
             <Link
               href="/"
-              className="inline-flex items-center gap-1 px-2.5 py-1 bg-black/30 hover:bg-black/50 border border-amber-400/40 rounded-lg text-xs font-bold text-[#e5c158] hover:text-amber-200 transition-all shrink-0 group"
+              className="inline-flex items-center justify-center gap-0.5 px-2 py-1 bg-black/30 hover:bg-black/50 border border-amber-400/40 rounded-lg text-xs font-bold text-[#e5c158] hover:text-amber-200 transition-all shrink-0 group"
               title="Quay lại danh sách mảng ảnh"
             >
               <ChevronLeft className="w-4 h-4 text-[#e5c158] group-hover:-translate-x-0.5 transition-transform" />
-              <span className="text-[11px] sm:text-xs font-bold tracking-wide">DANH SÁCH</span>
+              <span className="hidden sm:inline text-[11px] sm:text-xs font-bold tracking-wide">DANH SÁCH</span>
             </Link>
           )}
 
-          <Link href="/" className="flex items-center gap-2 sm:gap-3 group min-w-0">
-            <div className="relative w-9 h-9 sm:w-12 sm:h-12 shrink-0 drop-shadow-md">
+          <Link href="/" className="flex items-center gap-1.5 sm:gap-2.5 group min-w-0">
+            <div className="relative w-8 h-8 sm:w-11 sm:h-11 shrink-0 drop-shadow-md">
               <Image
                 src="/images/logo-emblem.png"
                 alt="Emblem"
@@ -58,29 +58,29 @@ export function Header({
               />
             </div>
             <div className="min-w-0">
-              <h1 className="text-xs sm:text-sm md:text-base font-extrabold text-[#f3d078] tracking-wide uppercase leading-tight group-hover:text-white transition truncate">
+              <h1 className="text-[11px] sm:text-sm md:text-base font-extrabold text-[#f3d078] tracking-wide uppercase leading-tight group-hover:text-white transition truncate">
                 THUYẾT MINH MẢNG ẢNH
               </h1>
-              <p className="text-[10px] sm:text-[11px] font-bold text-amber-100/90 uppercase tracking-widest truncate mt-0.5">
+              <p className="text-[9px] sm:text-[11px] font-bold text-amber-100/90 uppercase tracking-widest truncate mt-0.5">
                 PHÒNG HỒ CHÍ MINH
               </p>
             </div>
           </Link>
         </div>
 
-        {/* Dedicated Military Unit Badge Box */}
-        <div className="flex flex-col items-center justify-center bg-[#500000]/70 border border-amber-400/50 rounded-lg px-2.5 sm:px-4 py-1 shrink-0 shadow-md">
-          <span className="text-[10px] sm:text-xs font-extrabold text-[#f3d078] tracking-widest uppercase leading-tight">
+        {/* Dedicated Military Unit Badge Box (Hidden on mobile in detail view to prevent layout breaking) */}
+        <div className={`${variant === "detail" ? "hidden md:flex" : "flex"} flex-col items-center justify-center bg-[#500000]/70 border border-amber-400/50 rounded-lg px-2 sm:px-3.5 py-0.5 sm:py-1 shrink-0 shadow-md`}>
+          <span className="text-[9px] sm:text-xs font-extrabold text-[#f3d078] tracking-widest uppercase leading-tight">
             LỮ ĐOÀN 71
           </span>
-          <span className="text-[9px] sm:text-[11px] font-bold text-amber-100 uppercase tracking-widest leading-tight mt-0.5">
+          <span className="text-[8px] sm:text-[10px] md:text-[11px] font-bold text-amber-100 uppercase tracking-widest leading-tight mt-0.5">
             TIỂU ĐOÀN 16
           </span>
         </div>
 
         {/* Right: Actions & Tools (detail page) */}
         {variant === "detail" && (
-          <div className="flex items-center gap-1.5 sm:gap-2 shrink-0">
+          <div className="flex items-center gap-1 sm:gap-2 shrink-0">
             {onFontSizeChange && (
               <FontSizeControl
                 currentSize={fontSize}
@@ -90,7 +90,7 @@ export function Header({
 
             <button
               onClick={() => setIsQRModalOpen(true)}
-              className="flex items-center gap-1 px-2.5 sm:px-3 py-1.5 bg-[#141c30] hover:bg-[#1f2b48] border border-amber-400/50 rounded-lg text-xs font-bold text-[#f3d078] transition shadow-md active:scale-95"
+              className="flex items-center gap-1 px-2 sm:px-3 py-1 sm:py-1.5 bg-[#141c30] hover:bg-[#1f2b48] border border-amber-400/50 rounded-lg text-xs font-bold text-[#f3d078] transition shadow-md active:scale-95"
               title="Mã QR bài thuyết minh"
             >
               <QrCode className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-amber-300" />
@@ -99,7 +99,7 @@ export function Header({
 
             <button
               onClick={handleShare}
-              className="p-1.5 sm:p-2 bg-[#141c30] hover:bg-[#1f2b48] border border-amber-400/30 rounded-lg text-gray-200 hover:text-white transition shadow-md active:scale-95"
+              className="p-1 sm:p-2 bg-[#141c30] hover:bg-[#1f2b48] border border-amber-400/30 rounded-lg text-gray-200 hover:text-white transition shadow-md active:scale-95"
               title={copiedShare ? "Đã sao chép liên kết!" : "Chia sẻ bài thuyết minh"}
             >
               {copiedShare ? (
