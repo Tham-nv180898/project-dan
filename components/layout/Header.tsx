@@ -41,7 +41,7 @@ export function Header({
     <header className="w-full bg-[#800000] border-t-2 border-b-2 border-[#d4af37] text-white shadow-lg sticky top-0 z-40">
       <div className="max-w-7xl mx-auto px-3 sm:px-4 py-2 sm:py-2.5 flex items-center justify-between gap-2 md:gap-4">
         {/* Left Section */}
-        <div className="flex items-center gap-2 sm:gap-4 min-w-0">
+        <div className="flex items-center gap-2 sm:gap-4 min-w-0 flex-1">
           {variant === "detail" && (
             <Link
               href="/"
@@ -71,6 +71,16 @@ export function Header({
               </p>
             </div>
           </Link>
+        </div>
+
+        {/* Center Section - Unit Info */}
+        <div className="hidden md:flex flex-col items-center justify-center text-center flex-shrink-0 border-l border-r border-amber-500/30 px-4 lg:px-8">
+          <span className="text-[11px] lg:text-xs font-extrabold text-[#e5c158] uppercase tracking-widest leading-tight">
+            LỮ ĐOÀN 71
+          </span>
+          <span className="text-[10px] lg:text-[11px] font-semibold text-gray-200 uppercase tracking-widest leading-tight mt-0.5">
+            TIỂU ĐOÀN 16
+          </span>
         </div>
 
         {/* Right Section */}
