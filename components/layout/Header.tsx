@@ -54,7 +54,7 @@ export function Header({
           )}
 
           <Link href="/" className="flex items-center gap-2 sm:gap-3 group min-w-0">
-            <div className="relative w-8 h-8 sm:w-10 sm:h-10 flex-shrink-0">
+            <div className="relative w-10 h-10 sm:w-14 sm:h-14 flex-shrink-0">
               <Image
                 src="/images/logo-emblem.png"
                 alt="Emblem"
