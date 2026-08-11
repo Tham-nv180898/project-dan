@@ -13,14 +13,15 @@ export default function HomePage() {
 
   return (
     <div className="min-h-screen flex flex-col bg-[#07090e]">
-      <Header
-        variant="list"
-        searchQuery={query}
-        onSearchChange={setQuery}
-      />
+      <Header variant="list" />
 
       <main className="flex-1 w-full">
-        <PanelGrid panels={filteredPanels} totalCount={PANELS_DATA.length} />
+        <PanelGrid
+          panels={filteredPanels}
+          totalCount={PANELS_DATA.length}
+          searchQuery={query}
+          onSearchChange={setQuery}
+        />
       </main>
 
       <ScrollToTop />
