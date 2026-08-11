@@ -1,15 +1,18 @@
 "use client";
 
-import React from "react";
+import React, { useState } from "react";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { AudioPlayer } from "@/components/ui/AudioPlayer";
 import { LightboxImage } from "@/components/ui/LightboxImage";
 import { ScrollToTop } from "@/components/ui/ScrollToTop";
 import { PanelNavigation } from "@/components/panels/PanelNavigation";
+import { FontSizeControl } from "@/components/ui/FontSizeControl";
+import { QRModal } from "@/components/ui/QRModal";
 import { Badge } from "@/components/ui/Badge";
 import { Panel } from "@/types";
 import { useFontSize } from "@/hooks/useFontSize";
+import { QrCode, Share2, Check } from "lucide-react";
 
 interface PanelDetailClientProps {
   panel: Panel;
@@ -19,6 +22,16 @@ interface PanelDetailClientProps {
 
 export function PanelDetailClient({ panel, prev, next }: PanelDetailClientProps) {
   const { fontSize, changeFontSize, getFontSizeClass } = useFontSize();
+  const [isQRModalOpen, setIsQRModalOpen] = useState(false);
+  const [copiedShare, setCopiedShare] = useState(false);
+
+  const handleShare = () => {
+    if (typeof window !== "undefined") {
+      navigator.clipboard.writeText(window.location.href);
+      setCopiedShare(true);
+      setTimeout(() => setCopiedShare(false), 2000);
+    }
+  };
 
   return (
     <div className="min-h-screen flex flex-col bg-[#0b0f19]">
@@ -28,6 +41,36 @@ export function PanelDetailClient({ panel, prev, next }: PanelDetailClientProps)
         onFontSizeChange={changeFontSize}
         panelTitle={panel.title}
       />
+
+      {/* Mobile Sticky Reading Utility Bar (Visible on mobile < sm) */}
+      <div className="sm:hidden sticky top-[57px] z-30 bg-[#121629] border-b border-[#232c4d] px-3 py-2 flex items-center justify-between gap-2 shadow-md">
+        <div className="flex items-center gap-1.5">
+          <span className="text-[10px] uppercase tracking-wider text-gray-400 font-semibold">Cỡ chữ:</span>
+          <FontSizeControl currentSize={fontSize} onSizeChange={changeFontSize} />
+        </div>
+
+        <div className="flex items-center gap-1.5">
+          <button
+            onClick={() => setIsQRModalOpen(true)}
+            className="flex items-center gap-1 px-2 py-1 bg-[#1a233b] border border-amber-400/40 rounded-md text-[11px] font-bold text-[#f3d078]"
+          >
+            <QrCode className="w-3.5 h-3.5 text-amber-300" />
+            <span>MÃ QR</span>
+          </button>
+
+          <button
+            onClick={handleShare}
+            className="p-1 bg-[#1a233b] border border-gray-600 rounded-md text-gray-200"
+            title={copiedShare ? "Đã sao chép!" : "Chia sẻ"}
+          >
+            {copiedShare ? (
+              <Check className="w-3.5 h-3.5 text-green-400" />
+            ) : (
+              <Share2 className="w-3.5 h-3.5 text-amber-200" />
+            )}
+          </button>
+        </div>
+      </div>
 
       <main className="flex-1 w-full max-w-5xl mx-auto px-4 py-6">
         {/* Top Navigation */}
@@ -84,6 +127,12 @@ export function PanelDetailClient({ panel, prev, next }: PanelDetailClientProps)
           <PanelNavigation prev={prev} next={next} />
         </div>
       </main>
+
+      <QRModal
+        isOpen={isQRModalOpen}
+        onClose={() => setIsQRModalOpen(false)}
+        title={panel.title}
+      />
 
       <ScrollToTop />
       <Footer />
