@@ -5,6 +5,7 @@ import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { AudioPlayer } from "@/components/ui/AudioPlayer";
 import { LightboxImage } from "@/components/ui/LightboxImage";
+import { ScrollToTop } from "@/components/ui/ScrollToTop";
 import { PanelNavigation } from "@/components/panels/PanelNavigation";
 import { Badge } from "@/components/ui/Badge";
 import { Panel } from "@/types";
@@ -33,7 +34,7 @@ export function PanelDetailClient({ panel, prev, next }: PanelDetailClientProps)
         <PanelNavigation prev={prev} next={next} />
 
         {/* Main Content Card */}
-        <div className="bg-white text-gray-900 rounded-2xl shadow-2xl p-6 md:p-10 border border-gray-200">
+        <div className="bg-white text-gray-900 rounded-xl sm:rounded-2xl shadow-2xl p-4 sm:p-6 md:p-10 border border-gray-200">
           {/* Badge */}
           <div className="mb-3">
             <Badge variant="teal" className="text-xs uppercase tracking-wider px-3 py-1">
@@ -84,6 +85,7 @@ export function PanelDetailClient({ panel, prev, next }: PanelDetailClientProps)
         </div>
       </main>
 
+      <ScrollToTop />
       <Footer />
     </div>
   );
