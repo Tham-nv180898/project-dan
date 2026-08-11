@@ -42,7 +42,7 @@ Và minh chứng hùng hồn nhất, sống động nhất cho sự đúng đắ
 Đến với mảng ảnh mang chủ đề "Việt Nam Đất nước Con người", chúng ta sẽ cùng nhìn lại những nét khái quát nhất về Tổ quốc thân yêu – một dân tộc có bề dày hàng nghìn năm lịch sử dựng nước và giữ nước, giàu truyền thống yêu nước, đoàn kết, bất khuất và luôn khát vọng hòa bình, phát triển.
 
 Kết cấu của mảng ảnh và từng cụm ảnh:
-Mảng ảnh được bố trí logic, khoa học, kết cấu thành làm 6 cụm ảnh:
+Mảng ảnh được bố trí logic, khoa học, kết cấu thành 6 cụm ảnh:
 - Thứ nhất, cụm ảnh tên chủ đề và trống đồng có bản đồ Việt Nam
 - Thứ hai, cụm ảnh danh lam thắng cảnh, di sản văn hóa tiêu biểu
 - Thứ ba, cụm ảnh 54 Dân tộc Việt Nam
@@ -60,7 +60,7 @@ Thưa toàn thể các đồng chí!
 Khuê Văn Các trong khu di tích Văn miếu Quốc Tử Giám, một biểu tượng của trí tuệ và chính là trường đại học đầu tiên của nước ta.
 Vịnh Hạ Long nằm ở tỉnh Quảng Ninh, là một tuyệt tác nghệ thuật của tự nhiên với hàng nghìn đảo đá vôi kỳ vĩ và hệ thống hang động huyền ảo rải rác trên làn nước xanh ngọc bích. Nơi đây sở hữu những giá trị ngoại hạng toàn cầu, nổi bật với 3 lần được UNESCO vinh danh là Di sản Thiên nhiên Thế giới.
 Nếu ai đó hỏi: Đâu là “nét vẽ diệu kỳ” nhất mà con người và thiên nhiên cùng tạo nên trên dải đất hình chữ S này, chúng ta sẽ không ngần ngại trả lời: Đó chính là những thửa ruộng bậc thang Tây Bắc – giá trị văn hóa dân gian, truyền thống nông nghiệp ngàn đời của dân tộc và trí tuệ của con người Việt Nam.
-Cố đô Huế – thủ đô lịch sử của Việt Nam dưới triều đại nhà Nguyễn suốt 143 năm. Nơi đây chinh phục du khách bởi Quần thể di sản thế giới tráng lệ với Đại Nội, lăng tầm uy nghiêm cùng dải sông Hương êm đềm trôi qua chùa Thiên Mụ cổ kính.`,
+Cố đô Huế – thủ đô lịch sử của Việt Nam dưới triều đại nhà Nguyễn suốt 143 năm. Nơi đây chinh phục du khách bởi Quần thể di sản thế giới tráng lệ với Đại Nội, lăng tẩm uy nghiêm cùng dải sông Hương êm đềm trôi qua chùa Thiên Mụ cổ kính.`,
     imageSrc: "/images/panels/panel-02.jpg",
     audioSrc: "/audio/audio2.mp3",
     audioDuration: "05:16",
@@ -77,7 +77,7 @@ Cố đô Huế – thủ đô lịch sử của Việt Nam dưới triều đ�
 
 Trước mắt chúng ta là mảng ảnh với chủ đề “Chủ tịch Hồ Chí Minh – Cuộc đời và sự nghiệp”. Dưới dòng chữ đỏ rực rỡ, trang trọng tựa như một lời thề sắt son: “PHÁT HUY BẢN CHẤT CAO ĐẸP ‘BỘ ĐỘI CỤ HỒ’”, mảng ảnh khái quát những dấu mốc tiêu biểu trong cuộc đời, sự nghiệp cách mạng vĩ đại của Người; đồng thời làm nổi bật tư tưởng, đạo đức, phong cách mẫu mực của vị lãnh tụ kính yêu của dân tộc Việt Nam.
 
-Chủ tịch Hồ Chí Minh không chỉ là Người sáng lập, rèn luyện Đảng ta, Người khai sinh ra nước Việt Nam Dân chủ Cộng hoà, mà còn là biểu tượng sáng ngời của chủ nghĩa anh hùng cách mạng, ý chí độc lập dân tộc, khát vọng hòa bình, tự do và hạnh phúc cho Nhân dân. Cuộc đời và sự nghiệp của Người là bản anh hùng ca bất diệt, là nguồn sáng soi đường cho cách mạng Việt Nam hôm qua, hôm nay và mãi mãi về sau.
+Chủ tịch Hồ Chí Minh không chỉ là Người sáng lập, rèn luyện Đảng ta, Người khai sinh ra nước Việt Nam Dân chủ Cộng hòa, mà còn là biểu tượng sáng ngời của chủ nghĩa anh hùng cách mạng, ý chí độc lập dân tộc, khát vọng hòa bình, tự do và hạnh phúc cho Nhân dân. Cuộc đời và sự nghiệp của Người là bản anh hùng ca bất diệt, là nguồn sáng soi đường cho cách mạng Việt Nam hôm qua, hôm nay và mãi mãi về sau.
 
 Kết cấu của mảng ảnh và từng cụm ảnh:
 Thưa toàn thể các đồng chí!
@@ -91,9 +91,9 @@ Chủ tịch Hồ Chí Minh của chúng ta sinh vào ngày 19 tháng 5 năm 189
 
 Chính vì vậy vào ngày mùng 05 tháng 6 năm 1911, Bác đã lên con tàu Amiral Latouche Tréville rời bến cảng Nhà Rồng để đi tìm đường cứu nước.
 
-Thưa toàn thể các đồng chí, sau gần 10 năm bôn ba qua ba đại dương, bốn châu lục thì người đã tìm thấy con đường cứu nước, qua luận cương các vấn đề dân tộc và thuộc địa của Lê nin, đó chính là con đường cách mạng vô sản. Đây là một bước ngoặt lớn trong con đường cách mạng của người, đồng thời là một dấu mốc lịch sử của Cách mạng Việt Nam.
+Thưa toàn thể các đồng chí, sau gần 10 năm bôn ba qua ba đại dương, bốn châu lục thì người đã tìm thấy con đường cứu nước, qua Luận cương về các vấn đề dân tộc và thuộc địa của Lênin, đó chính là con đường cách mạng vô sản. Đây là một bước ngoặt lớn trong con đường cách mạng của người, đồng thời là một dấu mốc lịch sử của Cách mạng Việt Nam.
 
-Sau hơn 30 năm bôn ba hoạt động cách mạng ở nước ngoài, ngày 28 tháng 01 năm 1941. Tại cột mốc 108 Hà Quảng, Cao Bằng, Chủ tịch Hồ Chí Minh của chúng ta đã về nước và trực tiếp chỉ đạo cách mạng nước ta. Dưới sự lãnh đạo tài tình của Đảng cộng sản Việt Nam và Chủ tịch Hồ Chí Minh, cách mạng nước ta đã không ngừng trưởng thành và lớn mạnh, đi từ thắng lợi này tới thắng lợi khác.
+Sau hơn 30 năm bôn ba hoạt động cách mạng ở nước ngoài, ngày 28 tháng 01 năm 1941. Tại cột mốc 108 Hà Quảng, Cao Bằng, Chủ tịch Hồ Chí Minh của chúng ta đã về nước và trực tiếp chỉ đạo cách mạng nước ta. Dưới sự lãnh đạo tài tình của Đảng Cộng sản Việt Nam và Chủ tịch Hồ Chí Minh, cách mạng nước ta đã không ngừng trưởng thành và lớn mạnh, đi từ thắng lợi này tới thắng lợi khác.
 
 Như các đồng chí có thể quan sát, ở đây có rất nhiều những tấm ảnh về Chủ tịch Hồ Chí Minh, nhưng tôi tập trung giới thiệu các đồng chí hai bức ảnh có giá trị hình tượng hết sức sâu sắc.`,
     imageSrc: "/images/panels/panel-03.jpg",
@@ -124,7 +124,7 @@ Mảng ảnh “Quân đội ta trung với Đảng, hiếu với dân, sẵn s�
 Phân tích:
 Thưa toàn thể các đồng chí, “Quân đội ta trung với Đảng, hiếu với dân, sẵn sàng chiến đấu, hi sinh vì độc lập tự do của Tổ quốc, vì chủ nghĩa xã hội, nhiệm vụ nào cũng hoàn thành, khó khăn nào cũng vượt qua, kẻ thù nào cũng đánh thắng”, đó là lời khen tặng của Chủ tịch Hồ Chí Minh dành cho Quân đội ta nhân kỷ niệm 20 năm thành lập QĐNDVN, 22/12/1964. Và lời khen tặng đó đã trở thành bản chất cách mạng truyền thống vẻ vang của Quân đội ta, là chuẩn mực “Bộ Đội Cụ Hồ” mà lớp lớp các hệ cán bộ, chiến sĩ trong Quân đội đang ra sức phấn đấu, giữ gìn và phát huy.
 
-Thưa toàn thể các đồng chí, cách đây gần 82 năm, chấp hành chỉ thị của Hội nghị quân sự cách mạng Bắc Kỳ và Chủ tịch Hồ Chí Minh, ngày 22 tháng 12 năm 1944, Đội Việt Nam Tuyên truyền Giải phóng quân, tổ chức tiền thân của Quân đội Nhân dân Việt Nam được thành lập tại Châu Nguyên Bình, tỉnh Cao Bằng (nay là xóm Nà Sang, xã Tam Kim, tỉnh Cao Bằng). Mặc dù quân số ít, vũ khí trang bị hạn chế, nhưng dưới sự lãnh đạo, giáo dục, rèn luyện tài tình của Đảng và chủ tịch Hồ Chí Minh, Quân đội ta đã không ngừng trưởng thành và lớn mạnh, cùng với toàn Đảng, toàn dân vượt qua muôn vàn khó khăn, thử thách.`,
+Thưa toàn thể các đồng chí, cách đây gần 82 năm, chấp hành chỉ thị của Hội nghị quân sự cách mạng Bắc Kỳ và Chủ tịch Hồ Chí Minh, ngày 22 tháng 12 năm 1944, Đội Việt Nam Tuyên truyền Giải phóng quân, tổ chức tiền thân của Quân đội Nhân dân Việt Nam được thành lập tại Châu Nguyên Bình, tỉnh Cao Bằng (nay là xóm Nà Sang, xã Tam Kim, tỉnh Cao Bằng). Mặc dù quân số ít, vũ khí trang bị hạn chế, nhưng dưới sự lãnh đạo, giáo dục, rèn luyện tài tình của Đảng và Chủ tịch Hồ Chí Minh, Quân đội ta đã không ngừng trưởng thành và lớn mạnh, cùng với toàn Đảng, toàn dân vượt qua muôn vàn khó khăn, thử thách.`,
     imageSrc: "/images/panels/panel-04.jpg",
     audioSrc: "/audio/audio4.mp3",
     audioDuration: "08:25",
@@ -139,7 +139,7 @@ Thưa toàn thể các đồng chí, cách đây gần 82 năm, chấp hành ch�
     description: "Thưa toàn thể các đồng chí! Sinh thời, Chủ tịch Hồ Chí Minh luôn khẳng định: “Thanh niên là người chủ tương lai của nước nhà; thật vậy, nước nhà thịnh hay suy, yếu hay mạnh, một phần lớn phụ thuộc vào thanh niên”...",
     content: `Thưa toàn thể các đồng chí!
 
-Sinh thời, Chủ tịch Hồ Chí Minh luôn khẳng định: “Thanh niên là người chủ tương lai của nước nhà; thật vậy, nước nhà thịnh hay suy, yếu hay mạnh, một phần lớn phụ thuộc vào thanh niên”. Thấm nhuần lời dạy của Bác, những năm qua tuổi trẻ cả nước nói chung và tuổi trẻ Quân đội nói riêng luôn là lực lượng xung kích trong xây dựng và bảo vệ Tổ quốc. Để hiểu rõ hơn về truyền thống vẻ vang của thanh niên mời các đồng chí thăm quan bảng ảnh “Tuổi trẻ Quân đội phấn đấu xứng danh “Bộ đội Cụ Hồ” thời kỳ mới”.
+Sinh thời, Chủ tịch Hồ Chí Minh luôn khẳng định: “Thanh niên là người chủ tương lai của nước nhà; thật vậy, nước nhà thịnh hay suy, yếu hay mạnh, một phần lớn phụ thuộc vào thanh niên”. Thấm nhuần lời dạy của Bác, những năm qua tuổi trẻ cả nước nói chung và tuổi trẻ Quân đội nói riêng luôn là lực lượng xung kích trong xây dựng và bảo vệ Tổ quốc. Để hiểu rõ hơn về truyền thống vẻ vang của thanh niên mời các đồng chí tham quan bảng ảnh “Tuổi trẻ Quân đội phấn đấu xứng danh “Bộ đội Cụ Hồ” thời kỳ mới”.
 
 Kết cấu của mảng ảnh và từng cụm ảnh:
 Thưa toàn thể các đồng chí!
@@ -149,7 +149,7 @@ Mảng ảnh “Tuổi trẻ Quân đội phấn đấu xứng danh “Bộ đ�
 
 Phân tích:
 Thưa toàn thể các đồng chí!
-Sau khi Đảng ra đời, Đảng đã thấy rõ tầm quan trọng của việc xây dựng tổ chức Đoàn, Tại hội nghị BCHTW lần thứ 2 họp từ ngày 20/3- 26/3/1931, Trung ương Đảng đã dành một ngày quyết định về vấn đề quan trọng trong công tác Thanh niên, từ đó lấy ngày 26/03 hàng năm là ngày thành lập Đoàn Thanh niên cộng sản Hồ Chí Minh.
+Sau khi Đảng ra đời, Đảng đã thấy rõ tầm quan trọng của việc xây dựng tổ chức Đoàn. Tại hội nghị BCHTW lần thứ 2 họp từ ngày 20/3 - 26/3/1931, Trung ương Đảng đã dành một ngày quyết định về vấn đề quan trọng trong công tác Thanh niên, từ đó lấy ngày 26/03 hàng năm là ngày thành lập Đoàn Thanh niên cộng sản Hồ Chí Minh.
 
 Nhận thấy vai trò to lớn của thanh niên, trước lúc người đi xa, Bác Hồ đã dặn dò: “Đoàn viên và thanh niên ta nói chung là tốt, mọi việc đều hăng hái xung phong, không ngại khó khăn, có chí tiến thủ. Đảng cần phải chăm lo giáo dục đạo đức cách mạng cho họ, đào tạo họ thành những người thừa kế xây dựng xã hội chủ nghĩa vừa “Hồng”, vừa “Chuyên”. Bồi dưỡng thế hệ cách mạng cho đời sau là một việc rất quan trọng và rất cần thiết”.
 
@@ -187,7 +187,7 @@ Trước yêu cầu xây dựng Quân đội nhân dân Việt Nam trong tình h
 
 Thực hiện Nghị quyết số 05-NQ/TW, ngày 17/01/2022 của Bộ Chính trị (khóa XIII) về tổ chức Quân đội nhân dân Việt Nam giai đoạn 2021 - 2030 và những năm tiếp theo, ngày 10/12/2024 Bộ trưởng Bộ Quốc phòng đã ký Quyết định số 5989/QĐ-BQP thành lập Quân đoàn 34.
 
-Quân đoàn 34 là Quân đoàn chủ lực cơ động chiến lược của Bộ, được tổ chức theo hướng “tinh, gọn, mạnh”, tiến lên hiện đại, đứng chân trên địa bàn 07 tỉnh, thành phố thuộc miền Trung, Tây Nguyên và Đông Nam Bộ (Gia Lai, Quảng Ngãi, Đắc Lắk, Đồng Nai, TP. Hồ Chí Minh), có nhiệm vụ huấn luyện, SSCĐ, hiệp đồng tác chiến chiến lược, đảm nhiệm nhiệm vụ mở các chiến dịch có quy mô vừa và đánh bại mọi hình thái tác chiến mới của địch trong tương lai. Đồng thời thực hiện thắng lợi các nhiệm vụ theo yêu cầu của Bộ Quốc phòng.
+Quân đoàn 34 là Quân đoàn chủ lực cơ động chiến lược của Bộ, được tổ chức theo hướng “tinh, gọn, mạnh”, tiến lên hiện đại, đứng chân trên địa bàn 07 tỉnh, thành phố thuộc miền Trung, Tây Nguyên và Đông Nam Bộ (Gia Lai, Quảng Ngãi, Đắk Lắk, Đồng Nai, TP. Hồ Chí Minh), có nhiệm vụ huấn luyện, SSCĐ, hiệp đồng tác chiến chiến lược, đảm nhiệm nhiệm vụ mở các chiến dịch có quy mô vừa và đánh bại mọi hình thái tác chiến mới của địch trong tương lai. Đồng thời thực hiện thắng lợi các nhiệm vụ theo yêu cầu của Bộ Quốc phòng.
 
 Quân đoàn 34 ra đời trên cơ sở tổ chức lại từ các đơn vị trực thuộc Quân đoàn 3 và một số đơn vị của Quân đoàn 4. Đội hình của hai quân đoàn là những đơn vị có bề dày truyền thống, được tôi luyện trong chiến tranh cách mạng và huấn luyện, sẵn sàng chiến đấu, lập nhiều chiến công, thành tích xuất sắc từ đó xây đắp nên truyền thống: “Trung Thành – Đoàn Kết – Tự Lực – Sáng Tạo - Tinh Nhuệ - Quyết Thắng”.
 
