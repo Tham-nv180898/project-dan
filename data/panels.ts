@@ -171,25 +171,28 @@ Truyền thống gắn bó đoàn kết trong lớp người cùng lứa tuổi,
 
 Với niềm tự hào sâu sắc ấy, hôm nay, tôi xin giới thiệu đến toàn thể các đồng chí mảng ảnh mang chủ đề: "Đơn vị của chúng tôi".
 
-Kết cấu của mảng ảnh:
 Mảng ảnh “Đơn vị của chúng tôi” được kết cấu 2 cụm ảnh:
 - Thứ nhất, cụm ảnh truyền thống Quân đoàn, Lữ đoàn.
 - Thứ hai, cụm ảnh lãnh đạo, chỉ huy các cấp hiện nay.
 
-Phân tích:
 a) Truyền thống và lãnh đạo chỉ huy Quân đoàn 34
 Kính thưa các đồng chí!
 Trước yêu cầu xây dựng Quân đội nhân dân Việt Nam trong tình hình mới, Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII của Đảng xác định, đến năm 2025, cơ bản xây dựng Quân đội nhân dân “tinh, gọn, mạnh”, tạo tiền đề vững chắc, phấn đấu năm 2030, xây dựng Quân đội nhân dân “cách mạng, chính quy, tinh nhuệ, hiện đại”.
 
-Thực hiện Nghị quyết số 05-NQ/TW, ngày 17/01/2022 của Bộ Chính trị (khóa XIII) về tổ chức Quân đội nhân dân Việt Nam giai đoạn 2021 - 2030 và những năm tiếp theo, ngày 10/12/2024 Bộ trưởng Bộ Quốc phòng đã ký Quyết định số 5989/QĐ-BQP thành lập Quân đoàn 34.
+Thực hiện Nghị quyết số 05-NQ/TW, ngày 17/01/2022 của Bộ Chính trị (khóa XIII) về tổ chức Quân đội nhân dân Việt Nam giai đoạn 2021 - 2030 và những năm tiếp theo ngày 10/12/2024 Bộ trưởng Bộ Quốc phòng đã ký Quyết định số 5989/QĐ-BQP thành lập Quân đoàn 34.
 
 Quân đoàn 34 là Quân đoàn chủ lực cơ động chiến lược của Bộ, được tổ chức theo hướng “tinh, gọn, mạnh”, tiến lên hiện đại, đứng chân trên địa bàn 07 tỉnh, thành phố thuộc miền Trung, Tây Nguyên và Đông Nam Bộ (Gia Lai, Quảng Ngãi, Đắk Lắk, Đồng Nai, TP. Hồ Chí Minh), có nhiệm vụ huấn luyện, SSCĐ, hiệp đồng tác chiến chiến lược, đảm nhiệm nhiệm vụ mở các chiến dịch có quy mô vừa và đánh bại mọi hình thái tác chiến mới của địch trong tương lai. Đồng thời thực hiện thắng lợi các nhiệm vụ theo yêu cầu của Bộ Quốc phòng.
 
-Quân đoàn 34 ra đời trên cơ sở tổ chức lại từ các đơn vị trực thuộc Quân đoàn 3 và một số đơn vị của Quân đoàn 4. Đội hình của hai quân đoàn là những đơn vị có bề dày truyền thống, được tôi luyện trong chiến tranh cách mạng và huấn luyện, sẵn sàng chiến đấu, lập nhiều chiến công, thành tích xuất sắc từ đó xây đắp nên truyền thống: “Trung Thành – Đoàn Kết – Tự Lực – Sáng Tạo - Tinh Nhuệ - Quyết Thắng”.
+Quân đoàn 34 ra đời trên cơ sở tổ chức lại từ các đơn vị trực thuộc Quân đoàn 3 và một số đơn vị của Quân đoàn 4. Đội hình của hai quân đoàn là những đơn vị có bề dày truyền thống, được tôi luyện trong chiến tranh cách mạng và huấn luyện, sẵn sàng chiến đấu, lập nhiều chiến công, thành tích xuất sắc từ đó xây đắp nên truyền thống: “Trung Thành – Đoàn Kết – Tự Lực – Sáng Tạo -Tinh Nhuệ - Quyết Thắng”
 
 Do đó, dù là đơn vị mới thành lập, nhưng các đơn vị hợp thành của Quân đoàn đã có lịch sử và truyền thống rất vẻ vang trong kháng chiến chống Pháp, chống Mỹ, bảo vệ Tổ quốc và làm nghĩa vụ quốc tế, cũng như trong huấn luyện, sẵn sàng chiến đấu, xây dựng đơn vị.
 
-Năm 2025, Quân đoàn 34 được Bộ Quốc phòng tặng cờ thi đua trong thực hiện phong trào thi đua Quyết thắng năm.`,
+Năm 2025, Quân đoàn 34 được Bộ Quốc phòng tặng cờ thi đua trong thực hiện phong trào thi đua Quyết thắng năm.
+
+* Thủ trưởng Bộ Tư lệnh Quân đoàn khi thành lập:
+1. Thiếu tướng Nguyễn Bá Lực - Tư lệnh Quân đoàn (nay là Trung tướng Nguyễn Bá Lực – Phó TTMT Quân đội nhân dân Việt Nam)
+2. Thiếu tướng Lê Minh Quang - Chính ủy Quân đoàn (nay là Trung tướng)
+3. Thiếu tướng Trần Công Đức - Phó Tư lệnh Tham mưu trưởng Quân đoàn.`,
     imageSrc: "/images/panels/panel-06.jpg",
     audioSrc: "/audio/audio6.mp3",
     audioDuration: "20:02",
