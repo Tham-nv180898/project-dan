@@ -494,7 +494,6 @@ Sau đây, xin mời các đồng chí sang tham quan Mảng ảnh số 6.`,
     shortTitle: "MẢNG ẢNH 6: ĐƠN VỊ CHÚNG TÔI",
     description: "Thưa toàn thể các đồng chí! Đối với mỗi quân nhân cách mạng, đơn vị không chỉ là nơi rèn luyện, công tác, mà còn là mái nhà chung, là điểm tựa tinh thần vô cùng thiêng liêng và vững chắc...",
     content: `Thưa toàn thể các đồng chí!
-
 Đối với mỗi quân nhân cách mạng, đơn vị không chỉ là nơi rèn luyện, công tác, mà còn là mái nhà chung, là điểm tựa tinh thần vô cùng thiêng liêng và vững chắc. Niềm tự hào về truyền thống vẻ vang của đơn vị chính là cội nguồn sức mạnh, là động lực to lớn để lớp lớp cán bộ, chiến sĩ vượt qua mọi gian khổ, hy sinh, hoàn thành xuất sắc mọi nhiệm vụ được giao.
 
 Với niềm tự hào sâu sắc ấy, hôm nay, tôi xin giới thiệu đến toàn thể các đồng chí mảng ảnh mang chủ đề: "Đơn vị của chúng tôi".
@@ -505,13 +504,13 @@ Mảng ảnh “Đơn vị của chúng tôi” được kết cấu 2 cụm ả
 
 a) Truyền thống và lãnh đạo chỉ huy Quân đoàn 34
 Kính thưa các đồng chí!
-Trước yêu cầu xây dựng Quân đội nhân dân Việt Nam trong tình hình mới, Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII của Đảng xác định, đến năm 2025, cơ bản xây dựng Quân đội nhân dân “tinh, gọn, mạnh”, tạo tiền đề vững chắc, phấn đấu năm 2030, xây dựng Quân đội nhân dân “cách mạng, chính quy, tinh nhuệ, hiện đại”.
+Trước yêu cầu xây dựng Quân đội nhân dân Việt Nam trong tình hình mới, Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII của Đảng xác định, đến năm 2025, cơ bản xây dựng Quân đội nhân dân “tinh, gọn, mạnh”, tạo tiền đề vững chắc, phấn đấu năm 2030, xây dựng Quân đội nhân dân “cách mạng, chính quy, tinh nhuệ, hiện đại”. 
 
 Thực hiện Nghị quyết số 05-NQ/TW, ngày 17/01/2022 của Bộ Chính trị (khóa XIII) về tổ chức Quân đội nhân dân Việt Nam giai đoạn 2021 - 2030 và những năm tiếp theo ngày 10/12/2024 Bộ trưởng Bộ Quốc phòng đã ký Quyết định số 5989/QĐ-BQP thành lập Quân đoàn 34.
 
-Quân đoàn 34 là Quân đoàn chủ lực cơ động chiến lược của Bộ, được tổ chức theo hướng “tinh, gọn, mạnh”, tiến lên hiện đại, đứng chân trên địa bàn 07 tỉnh, thành phố thuộc miền Trung, Tây Nguyên và Đông Nam Bộ (Gia Lai, Quảng Ngãi, Đắk Lắk, Đồng Nai, TP. Hồ Chí Minh), có nhiệm vụ huấn luyện, SSCĐ, hiệp đồng tác chiến chiến lược, đảm nhiệm nhiệm vụ mở các chiến dịch có quy mô vừa và đánh bại mọi hình thái tác chiến mới của địch trong tương lai. Đồng thời thực hiện thắng lợi các nhiệm vụ theo yêu cầu của Bộ Quốc phòng.
+Quân đoàn 34 là Quân đoàn chủ lực cơ động chiến lược của Bộ, được tổ chức theo hướng “tinh, gọn, mạnh”, tiến lên hiện đại, đứng chân trên địa bàn 07 tỉnh, thành phố thuộc miền Trung, Tây Nguyên và Đông Nam Bộ (Gia Lai, Quảng Ngãi, Đăk Lăk, Đồng Nai, TP. Hồ Chí Minh), có nhiệm vụ huấn luyện, SSCĐ, hiệp đồng tác chiến chiến lược, đảm nhiệm nhiệm vụ mở các chiến dịch có quy mô vừa và đánh bại mọi hình thái tác chiến mới của địch trong tương lai. Đồng thời thực hiện thắng lợi các nhiệm vụ theo yêu cầu của Bộ Quốc phòng.
 
-Quân đoàn 34 ra đời trên cơ sở tổ chức lại từ các đơn vị trực thuộc Quân đoàn 3 và một số đơn vị của Quân đoàn 4. Đội hình của hai quân đoàn là những đơn vị có bề dày truyền thống, được tôi luyện trong chiến tranh cách mạng và huấn luyện, sẵn sàng chiến đấu, lập nhiều chiến công, thành tích xuất sắc từ đó xây đắp nên truyền thống: “Trung Thành – Đoàn Kết – Tự Lực – Sáng Tạo -Tinh Nhuệ - Quyết Thắng”
+Quân đoàn 34 ra đời trên cơ sở tổ chức lại từ các đơn vị trực thuộc Quân đoàn 3 và một số đơn vị của Quân đoàn 4. Đội hình của hai quân đoàn là những đơn vị có bề dày truyền thống, được tôi luyện trong chiến tranh cách mạng và huấn luyện, sẵn sàng chiến đấu, lập nhiều chiến công, thành tích xuất sắc từ đó xây đắp nên truyền thống: “Trung Thành – Đoàn Kết – Tự Lực – Sáng Tạo -Tinh Nhuệ - Quyết Thắng”.
 
 Do đó, dù là đơn vị mới thành lập, nhưng các đơn vị hợp thành của Quân đoàn đã có lịch sử và truyền thống rất vẻ vang trong kháng chiến chống Pháp, chống Mỹ, bảo vệ Tổ quốc và làm nghĩa vụ quốc tế, cũng như trong huấn luyện, sẵn sàng chiến đấu, xây dựng đơn vị.
 
@@ -520,7 +519,69 @@ Năm 2025, Quân đoàn 34 được Bộ Quốc phòng tặng cờ thi đua tron
 * Thủ trưởng Bộ Tư lệnh Quân đoàn khi thành lập:
 1. Thiếu tướng Nguyễn Bá Lực - Tư lệnh Quân đoàn (nay là Trung tướng Nguyễn Bá Lực – Phó TTMT Quân đội nhân dân Việt Nam)
 2. Thiếu tướng Lê Minh Quang - Chính ủy Quân đoàn (nay là Trung tướng)
-3. Thiếu tướng Trần Công Đức - Phó Tư lệnh Tham mưu trưởng Quân đoàn.`,
+3. Thiếu tướng Trần Công Đức - Phó Tư lệnh Tham mưu trưởng Quân đoàn.
+4. Thiếu tướng Nguyễn Trần Long - Phó Chính ủy Quân đoàn.
+5. Thiếu tướng Lê Văn Cương - Phó Tư lệnh Quân đoàn.
+6. Thiếu tướng Dương Văn Quang - Phó Tư lệnh Quân đoàn.
+7. Đại tá Hà Viết Liễn - Phó Tư lệnh Quân đoàn.
+
+* Thủ trưởng Bộ Tư lệnh Quân đoàn hiện nay:
+1. Trung tướng Đào Tuấn Anh, Tư lệnh Quân đoàn.
+2. Trung tướng Lê Minh Quang, Chính ủy Quân đoàn.
+3. Thiếu tướng Trần Công Đức, Phó Tư lệnh Tham mưu trưởng Quân đoàn.
+4. Thiếu tướng Nguyễn Trần Long, Phó Chính ủy Quân đoàn.
+5. Thiếu tướng Lê Văn Cương, Phó Tư lệnh Quân đoàn.
+6. Thiếu tướng Dương Văn Quang, Phó Tư lệnh Quân đoàn.
+7. Đại tá Hà Viết Liễn, Phó Tư lệnh Quân đoàn.
+
+Các Thủ trưởng chính là hiện thân của trung tâm đoàn kết, là hạt nhân lãnh đạo mọi hoạt động của Quân đoàn; trực tiếp chỉ đạo xây dựng Quân đoàn vững mạnh về chính trị, tư tưởng, tổ chức và cán bộ; nâng cao chất lượng huấn luyện, trình độ sẵn sàng chiến đấu, xây dựng nền nếp chính quy, chấp hành kỷ luật, chăm lo đời sống bộ đội, xây dựng Quân đoàn ngày càng vững mạnh. Hình ảnh các Thủ trưởng thể hiện sự tiếp nối trách nhiệm, bản lĩnh, trí tuệ và quyết tâm lãnh đạo Quân đoàn hoàn thành xuất sắc mọi nhiệm vụ được giao.
+
+Biên chế của Quân đoàn hiện nay bao gồm: 4 Sư đoàn, 6 Lữ đoàn, 01 Trung đoàn Thông tin, 01 Trường Quân sự.
+
+b) Truyền thống và lãnh đạo, chỉ huy Lữ đoàn 71
+Thưa toàn thể các đồng chí!
+Vào những năm 1970 – 1971, chiến trường miền Đông Nam Bộ diễn ra vô cùng ác liệt. Địch điên cuồng sử dụng không quân đánh phá, coi vùng trời B2 là “vùng làm chủ tuyệt đối”. Trước yêu cầu cấp thiết của chiến trường, ngày 15/6/1971, Bộ Tư lệnh Miền quyết định thành lập Trung đoàn Pháo phòng không 71 - đơn vị phòng không cơ giới đầu tiên trên chiến trường Nam Bộ – tiền thân của Lữ đoàn Phòng không 71 ngày nay.
+
+Ngay từ những ngày đầu thành lập, cán bộ, chiến sĩ đơn vị đã nêu cao ý chí quyết chiến, quyết thắng, lập nhiều chiến công xuất sắc trong các chiến dịch lớn như Chiến dịch Nguyễn Huệ năm 1972, Chiến dịch Đường 14 – Phước Long, và đặc biệt là tham gia Chiến dịch Hồ Chí Minh lịch sử mùa Xuân năm 1975, góp phần giải phóng miền Nam, thống nhất đất nước.
+
+Đánh dấu bước trưởng thành của trung đoàn, ngày 18-2-1975, Quân ủy Trung ương, Bộ Quốc phòng quyết định tổ chức lại Trung đoàn PK71 thành Lữ đoàn PK 71. 
+Trong cuộc kháng chiến chống Mỹ cứu nước, Lữ đoàn chúng ta đã tham gia 150 trận chiến đấu, bắn rơi, bắn cháy 162 máy bay địch, cùng lực lượng bạn tiêu diệt nhiều sinh lực, phương tiện chiến tranh của đối phương.
+
+Từ thực tiễn chiến đấu, xây dựng và trưởng thành, các thế hệ cán bộ, chiến sĩ Lữ đoàn đã xây đắp nên truyền thống vẻ vang: “Kiên cường, dũng cảm; đoàn kết, hiệp đồng; tự lực, tự cường, đã đánh là thắng.”
+
+Với những chiến công đặc biệt xuất sắc đó, ngày 21/12/2009, Lữ đoàn vinh dự được Đảng, Nhà nước tuyên dương danh hiệu cao quý Anh hùng Lực lượng vũ trang nhân dân trong kháng chiến chống Mỹ cứu nước. Cùng với đó là 5 tập thể và 5 cá nhân được phong tặng danh hiệu Anh hùng LLVTND. 
+
+Trên mảng ảnh là hình ảnh các đồng chí trong Ban Chỉ huy Lữ đoàn hiện nay. Đứng đầu là đồng chí:
+1. Đồng chí Đại tá Nguyễn Xuân Linh, P. BTĐU, Lữ đoàn trưởng
+2. Đồng chí Đại tá Phạm Thanh Tuấn, BTĐU, Chính ủy Lữ đoàn
+3. Đồng chí Thượng tá Lê Minh Thắng, UVTV, Phó Lữ đoàn trưởng Tham mưu trưởng Lữ đoàn.
+4. Đồng chí Thượng tá Hà Văn Thanh, UVTV, Phó Chính ủy Lữ đoàn 
+5. Đồng chí Thượng tá Mai Văn Đông, ĐUV, Phó Lữ đoàn trưởng
+
+Dưới sự lãnh đạo, chỉ huy trực tiếp của Thủ trưởng, đơn vị luôn giữ vững đoàn kết, thống nhất; không ngừng đổi mới, nâng cao chất lượng huấn luyện, trình độ sẵn sàng chiến đấu; quản lý chặt chẽ vùng trời đảm nhiệm; xây dựng nền nếp chính quy, chấp hành nghiêm kỷ luật; chăm lo tốt đời sống vật chất, tinh thần cho bộ đội. Hình ảnh các Thủ trưởng là biểu tượng của tinh thần trách nhiệm, sự tận tụy và quyết tâm tiếp nối truyền thống anh hùng, đưa Lữ đoàn ngày càng phát triển vững mạnh.
+
+Qua nghe giới thiệu mảng ảnh truyền thống của Quân đoàn và Lữ đoàn, mỗi chúng ta cần nhận thức sâu sắc rằng: Những chiến công, thành tích mà các thế hệ cha anh đã bằng máu xương vun đắp không chỉ là niềm tự hào, mà còn là trách nhiệm lớn lao để thế hệ hôm nay kế thừa và phát huy.
+
+Là những quân nhân đang trực tiếp học tập, công tác tại Tiểu đoàn 16 – đứng trong đội hình của Lữ đoàn 71 anh hùng và Quân đoàn 34 cơ động chiến lược, mỗi cán bộ, chiến sĩ phải biến niềm tự hào thành quyết tâm hành động:
+- Một là, Tuyệt đối trung thành với Đảng, Tổ quốc và Nhân dân. Thường xuyên rèn luyện bản lĩnh chính trị vững vàng, nâng cao tinh thần cảnh giác cách mạng, kiên quyết đấu tranh phản bác các quan điểm sai trái, thù địch.
+- Hai là, Nêu cao tinh thần trách nhiệm, tích cực chủ động trong học tập, huấn luyện. Làm chủ vững chắc vũ khí trang bị kỹ thuật, nhất là khí tài pháo phòng không; lấy kết quả sẵn sàng chiến đấu làm thước đo phẩm chất của người quân nhân cách mạng.
+- Ba là, Phát huy cao độ tinh thần đoàn kết, hiệp đồng; giữ nghiêm kỷ luật, xây dựng môi trường văn hóa quân sự lành mạnh. Giữ gìn và tỏa sáng phẩm chất cao đẹp "Bộ đội Cụ Hồ" trong thời kỳ mới.
+
+Tự hào truyền thống vẻ vang, toàn thể cán bộ, chiến sĩ Tiểu đoàn 16 quyết tâm đoàn kết một lòng, xây dựng đơn vị vững mạnh toàn diện “mẫu mực, tiêu biểu”, luôn sẵn sàng chiến đấu cao, bảo vệ vững chắc bầu trời Tổ quốc, xứng đáng với niềm tin yêu của Đảng, Nhà nước, Quân đội và Nhân dân!
+
+Kính thưa các đồng chí!
+Là người quân nhân, học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh, chúng ta không chỉ nâng cao bản lĩnh chính trị mà còn phải có trách nhiệm đấu tranh với những quan điểm sai trái, thông tin xuyên tạc, sai sự thật.
+
+Qua sự việc được dư luận gọi là “cây 55”, chúng ta cần có thái độ tỉnh táo. Trước một vụ việc gây hậu quả nghiêm trọng, người dân có quyền đặt câu hỏi, bày tỏ sự đau buồn và yêu cầu làm rõ. Nhưng từ đó không có nghĩa là chúng ta được phép chia sẻ thông tin chưa kiểm chứng, suy diễn hoặc lợi dụng vụ việc để xuyên tạc, kích động, gây mất đoàn kết.
+
+Đấu tranh với quan điểm sai trái trước hết phải bắt đầu từ sự thật. Người quân nhân không chạy theo tin đồn, không chia sẻ thông tin chưa được kiểm chứng, không tranh luận bằng chửi bới hay cực đoan. Chúng ta phải kiểm tra nguồn tin, đối chiếu với thông tin chính thống, phân biệt rõ đâu là sự thật, đâu là ý kiến và đâu là thông tin xuyên tạc.
+
+Đặc biệt, cần quán triệt tinh thần của Chủ tịch Hồ Chí Minh: “Nói đi đôi với làm”, lấy trách nhiệm với nhân dân và đất nước làm cơ sở hành động.
+
+Vì vậy, trước những vấn đề phức tạp trên không gian mạng, mỗi quân nhân cần giữ vững bản lĩnh, không dao động, không a dua, không im lặng trước cái sai, đồng thời phải đấu tranh có lý, có tình, có căn cứ và đúng pháp luật.
+
+Đấu tranh bảo vệ sự thật không phải bằng cảm xúc cực đoan; đấu tranh hiệu quả là dùng sự thật để bác bỏ thông tin sai trái.
+Đó cũng là trách nhiệm của mỗi quân nhân trong việc giữ vững trận địa tư tưởng, góp phần bảo vệ hình ảnh Quân đội nhân dân Việt Nam và củng cố niềm tin của nhân dân.`,
     imageSrc: "/images/panels/panel-06.jpg",
     audioSrc: "/audio/audio6.mp3",
     audioDuration: "20:02",
