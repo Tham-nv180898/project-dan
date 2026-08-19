@@ -40,33 +40,31 @@ Mặt B của phòng Hồ Chí Minh được bố trí:`,
   {
     id: "MA-02",
     slug: "ma-02",
-    title: "MẢNG ẢNH 2: VIỆT NAM ĐẤT NƯỚC CON NGƯỜI",
-    shortTitle: "MẢNG ẢNH 2: VIỆT NAM ĐẤT NƯỚC CON NGƯỜI",
+    title: "MẢNG ẢNH 2: VIỆT NAM - ĐẤT NƯỚC, CON NGƯỜI",
+    shortTitle: "MẢNG ẢNH 2: VIỆT NAM - ĐẤT NƯỚC, CON NGƯỜI",
     description: "Kính thưa Ban Giám khảo, thưa toàn thể các đồng chí! Đến với mảng ảnh mang chủ đề \"Việt Nam Đất nước Con người\", chúng ta sẽ cùng nhìn lại những nét khái quát nhất về Tổ quốc thân yêu...",
     content: `Kính thưa Ban Giám khảo, thưa toàn thể các đồng chí!
 
 Đến với mảng ảnh mang chủ đề "Việt Nam Đất nước Con người", chúng ta sẽ cùng nhìn lại những nét khái quát nhất về Tổ quốc thân yêu – một dân tộc có bề dày hàng nghìn năm lịch sử dựng nước và giữ nước, giàu truyền thống yêu nước, đoàn kết, bất khuất và luôn khát vọng hòa bình, phát triển.
 
-Kết cấu của mảng ảnh và từng cụm ảnh:
-Mảng ảnh được bố trí logic, khoa học, kết cấu thành 6 cụm ảnh:
+Mảng ảnh được bố trí logic, khoa học, kết cấu thành làm 6 cụm ảnh:
 - Thứ nhất, cụm ảnh tên chủ đề và trống đồng có bản đồ Việt Nam
-- Thứ hai, cụm ảnh danh lam thắng cảnh, di sản văn hóa tiêu biểu
-- Thứ ba, cụm ảnh 54 Dân tộc Việt Nam
-- Thứ tư, cụm ảnh những dấu ấn lịch sử và văn hóa Việt Nam
-- Thứ năm, cụm ảnh truyền thống dựng nước đi đôi với giữ nước của dân tộc
-- Thứ sáu, Chân dung các đồng chí lãnh đạo chủ chốt của Đảng, Nhà nước Việt Nam nhiệm kỳ 2026 - 2031
+- Thứ hai, cụm ảnh chân dung các đồng chí lãnh đạo chủ chốt của Đảng, Nhà nước Việt Nam nhiệm kỳ 2026 - 2031.
+- Thứ ba, cụm ảnh truyền thống dựng nước đi đôi với giữ nước của dân tộc (gồm 05 hình ảnh)
+- Thứ tư, cụm ảnh 54 dân tộc Việt Nam
+- Thứ năm, cụm ảnh những dấu ấn lịch sử và văn hóa Việt Nam
+- Thứ sáu, cụm ảnh danh lam thắng cảnh, văn hóa con người Việt Nam (gồm 09 hình ảnh)
 
-Phân tích:
 Việt Nam - hai tiếng thiêng liêng, sợi chỉ đỏ xuyên suốt trong tâm hồn mọi người con đất Việt. Nổi bật lên trên mảng ảnh là hình ảnh Trống đồng Đông Sơn - Ngọc Lũ cùng bản đồ Tổ quốc đỏ thắm, hiên ngang khẳng định chủ quyền thiêng liêng với hai quần đảo Hoàng Sa và Trường Sa. Những hình ảnh thiêng liêng này biểu trưng cho nền văn hóa đậm đà bản sắc dân tộc, được hình thành và phát triển qua hơn bốn ngàn năm lịch sử dựng nước và giữ nước; kết hợp hài hòa với bông sen trắng thể hiện vẻ đẹp thuần khiết, thanh cao của dân tộc ta, và nhắc ta về câu hát:
 "Tháp mười đẹp nhất bông sen,
 Việt Nam đẹp nhất có tên Bác Hồ".
 
-Thưa toàn thể các đồng chí!
-Đất nước Việt Nam chúng ta là một dải đất hình chữ S nằm ở phía Đông của bán đảo Đông Dương và được mẹ thiên nhiên ưu đãi ban tặng rất nhiều những danh lam thắng cảnh và kỳ quan thiên nhiên được cả thế giới phải ngưỡng mộ, tiêu biểu:
-Khuê Văn Các trong khu di tích Văn miếu Quốc Tử Giám, một biểu tượng của trí tuệ và chính là trường đại học đầu tiên của nước ta.
-Vịnh Hạ Long nằm ở tỉnh Quảng Ninh, là một tuyệt tác nghệ thuật của tự nhiên với hàng nghìn đảo đá vôi kỳ vĩ và hệ thống hang động huyền ảo rải rác trên làn nước xanh ngọc bích. Nơi đây sở hữu những giá trị ngoại hạng toàn cầu, nổi bật với 3 lần được UNESCO vinh danh là Di sản Thiên nhiên Thế giới.
-Nếu ai đó hỏi: Đâu là “nét vẽ diệu kỳ” nhất mà con người và thiên nhiên cùng tạo nên trên dải đất hình chữ S này, chúng ta sẽ không ngần ngại trả lời: Đó chính là những thửa ruộng bậc thang Tây Bắc – giá trị văn hóa dân gian, truyền thống nông nghiệp ngàn đời của dân tộc và trí tuệ của con người Việt Nam.
-Cố đô Huế – thủ đô lịch sử của Việt Nam dưới triều đại nhà Nguyễn suốt 143 năm. Nơi đây chinh phục du khách bởi Quần thể di sản thế giới tráng lệ với Đại Nội, lăng tẩm uy nghiêm cùng dải sông Hương êm đềm trôi qua chùa Thiên Mụ cổ kính.`,
+Một trong những mốc son chói lọi nhất trong lịch sử dân tộc ta là ngày 02/9/1945, tại quảng trường Ba Đình, Bác Hồ đọc bản “Tuyên ngôn độc lập”, thành lập nước Việt Nam Dân chủ Cộng hòa, nhà nước công nông đầu tiên ở Đông Nam Châu Á, mở ra một trang lịch sử hào hùng của dân tộc; Bản Tuyên ngôn khẳng định đanh thép: “Nước Việt Nam có quyền hưởng tự do và độc lập và sự thật đó trở thành một nước tự do độc lập, toàn thể dân tộc Việt Nam quyết đem tất cả tinh thần và lực lượng, tính mạng và của cải để giữ vững quyền tự do, độc lập ấy”.
+
+Kính thưa các đồng chí!
+Sự phát triển vững mạnh của đất nước luôn gắn liền với sự lãnh đạo sáng suốt, tinh thần trách nhiệm kiên trung và những định hướng chiến lược tầm xa của các đồng chí lãnh đạo chủ chốt của Đảng và Nhà nước. Các đồng chí lãnh đạo chủ chốt của Đảng, Nhà nước ta nhiệm kỳ 2026 – 2031 bao gồm:
+1. Đ/c Tô Lâm - Tổng Bí thư BCH Trung ương Đảng Cộng sản Việt Nam; Chủ tịch Nước CHXHCN Việt Nam;
+3. Đ/c Lê Minh Hưng - Thủ tướng Chính phủ Nước CHXHCN Việt Nam;`,
     imageSrc: "/images/panels/panel-02.jpg",
     audioSrc: "/audio/audio2.mp3",
     audioDuration: "05:16",
