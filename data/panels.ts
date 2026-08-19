@@ -6,25 +6,31 @@ export const PANELS_DATA: Panel[] = [
     slug: "ma-01",
     title: "MẢNG ẢNH 1: ĐẢNG CỘNG SẢN VIỆT NAM - NGƯỜI TỔ CHỨC VÀ LÃNH ĐẠO MỌI THẮNG LỢI CỦA CÁCH MẠNG VIỆT NAM",
     shortTitle: "MẢNG ẢNH 1: ĐẢNG CỘNG SẢN VIỆT NAM",
-    description: "Kính thưa toàn thể các đồng chí! Trước mắt chúng ta là mảng ảnh với chủ đề “Đảng Cộng sản Việt Nam – Người tổ chức và lãnh đạo mọi thắng lợi của cách mạng Việt Nam” khái quát chặng đường lịch sử hơn 96 năm xây dựng...",
-    content: `Kính thưa toàn thể các đồng chí!
+    description: "Kính thưa các đồng chí! Phòng Hồ Chí Minh Tiểu đoàn là một trong những thiết chế văn hóa quan trọng được trang bị cho đơn vị đặt dưới sự quản lý của người chỉ huy...",
+    content: `Kính thưa các đồng chí!
 
-Trước mắt chúng ta là mảng ảnh với chủ đề “Đảng Cộng sản Việt Nam – Người tổ chức và lãnh đạo mọi thắng lợi của cách mạng Việt Nam” khái quát chặng đường lịch sử hơn 96 năm xây dựng, chiến đấu và trưởng thành của Đảng ta – một chặng đường gắn liền với những thắng lợi vĩ đại của dân tộc Việt Nam.
+Phòng Hồ Chí Minh Tiểu đoàn là một trong những thiết chế văn hóa quan trọng được trang bị cho đơn vị đặt dưới sự quản lý của người chỉ huy, sự lãnh đạo của cấp ủy và sự hướng dẫn nghiệp vụ của cơ quan Tuyên Huấn cấp trên. Đây là nơi giáo dục lịch sử, truyền thống, đồng thời là điểm hẹn văn hóa, giải trí trong giờ nghỉ, ngày nghỉ của bộ đội.
 
-Kết cấu của mảng ảnh và từng cụm ảnh:
-Bức tranh toàn cảnh của mảng ảnh được thiết kế logic, kết cấu thành 4 cụm ảnh:
-- Thứ nhất, cụm ảnh Những chặng đường vẻ vang của Đảng
-- Thứ hai, cụm ảnh Đảng lãnh đạo đấu tranh giành độc lập dân tộc
-- Thứ ba, cụm ảnh Chân dung Tổng Bí thư Đảng Cộng sản Việt Nam qua các thời kỳ
-- Thứ tư, cụm ảnh Thành tựu 40 năm đổi mới và mục tiêu phát triển đất nước giai đoạn mới
+Hoạt động của Phòng Hồ Chí Minh có một vị trí, vai trò rất quan trọng đối với công tác giáo dục chính trị tư tưởng. Góp phần nâng cao đời sống văn hóa tinh thần cho quân nhân và xây dựng đơn vị vững mạnh toàn diện “mẫu mực tiêu biểu”.
 
-Phân tích:
+Về chức năng:
+- Hướng dẫn, tổ chức các hoạt động văn hoá - văn nghệ phục vụ nhiệm vụ chính trị của đơn vị và nhu cầu đời sống văn hóa, tinh thần của bộ đội.
+
+Về Nhiệm vụ:
+- Tổ chức hoạt động các nhóm nghiệp vụ; hoạt động văn hóa - văn nghệ quần chúng và câu lạc bộ sở thích cho bộ đội.
+- Phối hợp giữa đơn vị và các đoàn thể trên địa bàn đóng quân tổ chức giao lưu và các hoạt động văn hóa - văn nghệ.
+
 Thưa toàn thể các đồng chí!
-Bên trái của mảng ảnh là lá cờ đỏ sao vàng nằm trọn trong biểu tượng “búa – liềm”, “búa” đại diện cho giai cấp công nhân, “liềm” là đại diện cho giai cấp nông dân, biểu tượng “búa – liềm” đặt chéo nhau thể hiện mối liên minh chặt chẽ của giai cấp công nhân và giai cấp nông dân. Đó là biểu tượng vĩ đại của sự kết hợp giữa chủ nghĩa Mác - Lênin với phong trào công nhân và phong trào yêu nước. Ngọn cờ quang vinh ấy đã đập tan đêm trường nô lệ, trở thành vầng thái dương dẫn dắt đất nước tiến bước vững chắc trên con đường công nghiệp hóa, hiện đại hóa.
 
-Sức mạnh vĩ đại của ngọn cờ ấy bắt nguồn từ một lý tưởng duy nhất, được khắc họa đậm nét qua lời dạy của Chủ tịch Hồ Chí Minh: "Ngoài lợi ích của nhân dân, Đảng ta không có lợi ích gì khác". Kính thưa các đồng chí, đây chính là "sợi chỉ đỏ" xuyên suốt, là cội nguồn sức mạnh vô địch của Đảng ta. Nhờ kiên định mục tiêu chiến đấu vì độc lập dân tộc, vì hạnh phúc ấm no của nhân dân, mà Đảng đã quy tụ được sức mạnh đại đoàn kết toàn dân, trọn vẹn “ý Đảng quyện với lòng Dân”.
+Theo hướng dẫn của TCCT phòng Hồ Chí Minh được thống nhất bố trí, sắp xếp theo 4 mặt: A, B, C, D (kết hợp chi)
 
-Và minh chứng hùng hồn nhất, sống động nhất cho sự đúng đắn của lý luận và sự trong sáng của tôn chỉ ấy chính là bảng vàng ghi dấu "Những chặng đường vẻ vang của Đảng". Từ mốc son thành lập năm 1930, Đảng đã chèo lái con thuyền cách mạng Việt Nam đi qua biết bao thăng trầm, vượt qua muôn vàn bão táp để làm nên những thắng lợi vĩ đại mang tầm vóc thời đại trong thế kỷ XX, và tiếp tục lãnh đạo thành công công cuộc đổi mới toàn diện đất nước ngày hôm nay.`,
+Mặt A được bố trí khánh tiết và đặt ở vị trí trung tâm phòng Hồ Chí Minh:
+- Hướng lên phía trên cùng, sát trần nhà và ngự trị ở vị trí chính giữa, khẩu hiệu "Đảng Cộng sản Việt Nam quang vinh muôn năm" hiện lên rực rỡ. Dòng chữ ấy không chỉ là một khẩu hiệu trang trí, mà là lời khẳng định đanh thép về chân lý vĩnh hằng: Sự lãnh đạo tuyệt đối, trực tiếp về mọi mặt của Đảng là nhân tố quyết định mọi thắng lợi của cách mạng Việt Nam.
+- Nhìn sang 1/3 không gian bên trái của khánh tiết, là hình ảnh cờ đỏ xếp ly nâng đỡ biểu tượng búa liềm và sao vàng năm cánh rực sáng; ngay chính giữa nền cờ thiêng liêng ấy, dưới ánh sáng của búa liềm và sao vàng, tượng bán thân Chủ tịch Hồ Chí Minh hiện diện vô cùng tôn nghiêm.
+- Hai bên của khánh tiết là hai khẩu hiệu hành động: Bên trái là lời thề sắt son của người quân nhân cách mạng: "Suốt đời hy sinh phấn đấu cho lý tưởng cộng sản". Đối xứng sang bên phải là mệnh lệnh thiêng liêng từ trái tim: "Sống, chiến đấu, lao động và học tập theo gương Bác Hồ vĩ đại".
+- Khoảng trống giữa khánh tiết dùng để treo ma két để phục vụ các hội nghị. Phía dưới chính giữa là hệ thống thiết bị nghe nhìn, ti-vi và âm thanh. Các trang thiết bị này được bài trí khoa học, gọn gàng, không chỉ đáp ứng nhu cầu giải trí, nâng cao đời sống văn hóa tinh thần; mà quan trọng hơn, đây là những phương tiện sắc bén phục vụ trực tiếp, hiệu quả cho các hoạt động thông tin, tuyên truyền và sinh hoạt chính trị của đơn vị.
+
+Mặt B của phòng Hồ Chí Minh được bố trí:`,
     imageSrc: "/images/panels/panel-01.jpg",
     audioSrc: "/audio/audio1.mp3",
     audioDuration: "04:10",
