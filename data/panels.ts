@@ -154,8 +154,7 @@ Sau đây, mời các đồng chí di chuyển tham quan Mảng ảnh số 2: �
     shortTitle: "MẢNG ẢNH 2: VIỆT NAM - ĐẤT NƯỚC, CON NGƯỜI",
     description: "Kính thưa Ban Giám khảo, thưa toàn thể các đồng chí! Đến với mảng ảnh mang chủ đề \"Việt Nam Đất nước Con người\", chúng ta sẽ cùng nhìn lại những nét khái quát nhất về Tổ quốc thân yêu...",
     content: `Kính thưa Ban Giám khảo, thưa toàn thể các đồng chí!
-
-Đến với mảng ảnh mang chủ đề "Việt Nam Đất nước Con người", chúng ta sẽ cùng nhìn lại những nét khái quát nhất về Tổ quốc thân yêu – một dân tộc có bề dày hàng nghìn năm lịch sử dựng nước và giữ nước, giàu truyền thống yêu nước, đoàn kết, bất khuất và luôn khát vọng hòa bình, phát triển.
+Đến với mảng ảnh mang chủ đề "Việt Nam Đất nước Con người", chúng ta sẽ cùng nhìn lại những nét khái quát nhất về Tổ quốc thân yêu – một dân tộc có bề dày hàng nghìn năm lịch sử dựng nước và giữ nước, giàu truyền thống yêu nước, đoàn kết, bất khuất và luôn khát vọng hòa bình, phát triển. 
 
 Mảng ảnh được bố trí logic, khoa học, kết cấu thành làm 6 cụm ảnh:
 - Thứ nhất, cụm ảnh tên chủ đề và trống đồng có bản đồ Việt Nam
@@ -166,15 +165,87 @@ Mảng ảnh được bố trí logic, khoa học, kết cấu thành làm 6 c�
 - Thứ sáu, cụm ảnh danh lam thắng cảnh, văn hóa con người Việt Nam (gồm 09 hình ảnh)
 
 Việt Nam - hai tiếng thiêng liêng, sợi chỉ đỏ xuyên suốt trong tâm hồn mọi người con đất Việt. Nổi bật lên trên mảng ảnh là hình ảnh Trống đồng Đông Sơn - Ngọc Lũ cùng bản đồ Tổ quốc đỏ thắm, hiên ngang khẳng định chủ quyền thiêng liêng với hai quần đảo Hoàng Sa và Trường Sa. Những hình ảnh thiêng liêng này biểu trưng cho nền văn hóa đậm đà bản sắc dân tộc, được hình thành và phát triển qua hơn bốn ngàn năm lịch sử dựng nước và giữ nước; kết hợp hài hòa với bông sen trắng thể hiện vẻ đẹp thuần khiết, thanh cao của dân tộc ta, và nhắc ta về câu hát:
-"Tháp mười đẹp nhất bông sen,
-Việt Nam đẹp nhất có tên Bác Hồ".
+“Tháp mười đẹp nhất bông sen,
+Việt Nam đẹp nhất có tên Bác Hồ”.
 
-Một trong những mốc son chói lọi nhất trong lịch sử dân tộc ta là ngày 02/9/1945, tại quảng trường Ba Đình, Bác Hồ đọc bản “Tuyên ngôn độc lập”, thành lập nước Việt Nam Dân chủ Cộng hòa, nhà nước công nông đầu tiên ở Đông Nam Châu Á, mở ra một trang lịch sử hào hùng của dân tộc; Bản Tuyên ngôn khẳng định đanh thép: “Nước Việt Nam có quyền hưởng tự do và độc lập và sự thật đó trở thành một nước tự do độc lập, toàn thể dân tộc Việt Nam quyết đem tất cả tinh thần và lực lượng, tính mạng và của cải để giữ vững quyền tự do, độc lập ấy”.
+Một trong những mốc son chói lọi nhất trong lịch sử dân tộc ta là ngày 02/9/1945, tại quảng trường Ba Đình, Bác Hồ đọc bản “Tuyên ngôn độc lập”, thành lập nước Việt Nam Dân chủ Cộng hòa, nhà nước công nông đâu tiên ở Đông Nam Châu Á, mở ra một trang lịch sử hào hùng của dân tộc; Bản Tuyên ngôn khẳng định đanh thép: “Nước Việt Nam có quyền hưởng tự do và độc lập và sự thật đó trở thành một nước tự do độc lập, toàn thể dân tộc Việt Nam quyết đem tất cả tinh thần và lực lượng, tính mạng và của cải để giữ vững quyền tự do, độc lập ấy”. 
 
 Kính thưa các đồng chí!
 Sự phát triển vững mạnh của đất nước luôn gắn liền với sự lãnh đạo sáng suốt, tinh thần trách nhiệm kiên trung và những định hướng chiến lược tầm xa của các đồng chí lãnh đạo chủ chốt của Đảng và Nhà nước. Các đồng chí lãnh đạo chủ chốt của Đảng, Nhà nước ta nhiệm kỳ 2026 – 2031 bao gồm:
 1. Đ/c Tô Lâm - Tổng Bí thư BCH Trung ương Đảng Cộng sản Việt Nam; Chủ tịch Nước CHXHCN Việt Nam;
-3. Đ/c Lê Minh Hưng - Thủ tướng Chính phủ Nước CHXHCN Việt Nam;`,
+3. Đ/c Lê Minh Hưng - Thủ tướng Chính phủ Nước CHXHCN Việt Nam.
+4. Đ/c Trần Thanh Mẫn - Chủ tịch Quốc hội Nước CHXHCN Việt Nam.
+5. Đ/c Trần Cẩm Tú – Thường trực Ban Bí thư Trung ương Đảng CSVN.
+
+Kính thưa các đồng chí!
+Trải qua 4.000 năm dựng nước và giữ nước, nền văn hóa Việt Nam là một dòng chảy liên tục, kết tinh nên bản lĩnh và sức sống phi thường của dân tộc. Hành trình vĩ đại đó được khắc họa rõ nét qua tiến trình văn hóa tiêu biểu với 6 giai đoạn:
+
+Văn hóa Tiền sử (Khoảng vài vạn năm – nửa đầu thiên niên kỷ III TCN)
+Khởi đầu của văn hóa Việt Nam được hình thành từ thời đồ đá với các di chỉ Sơn Vi, Bắc Sơn, Hòa Bình. Đây là thời kỳ người Việt cổ thực hiện cuộc cách mạng trồng lúa nước tại các thung lũng, ven sông, sáng tạo ra kỹ thuật mài đá và chế tác đồ gốm.
+
+Văn hóa Văn Lang - Âu Lạc (Khoảng thế kỷ VII TCN – 179 TCN)
+Đến thời đại các Hùng Vương và An Dương Vương, nhà nước sơ khai ra đời kéo theo sự bùng nổ của nền văn minh sông Hồng. Đây cũng là thời kỳ chứng kiến sự ra đời của Thành Cổ Loa, nỏ thần liên châu, cùng tín ngưỡng thờ cúng Hùng Vương và các huyền thoại chống ngoại xâm như Thánh Gióng, Sơn Tinh.
+
+Thưa toàn thể các đồng chí!
+Sáng 19-9-1954, Bác Hồ đã gặp mặt, căn dặn và giao nhiệm vụ cho cán bộ, chiến sĩ Đại đoàn Quân Tiên Phong về tiếp quản Thủ đô tại Đền Giếng trong khu di tích Đền Hùng (thuộc núi Nghĩa Lĩnh, xã Lâm Thao, tỉnh Phú Thọ). Bác giảng giải nhiều điều và căn dặn: “Các vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước”. 
+
+Để tưởng nhớ công lao của các vị vua Hùng, nhân dân ta đã lấy ngày 10/3 âm lịch hàng năm làm ngày giỗ Tổ và cùng nhau hành hương về thăm Đền Hùng để tưởng nhớ đến cội nguồn của tổ tiên:
+“Dù ai đi ngược về xuôi
+Nhớ ngày giỗ tổ mồng Mười tháng Ba”.
+
+Văn hóa thời chống Bắc thuộc (179 TCN – 938)
+Trải qua hơn 1.000 năm chịu ách đô hộ khắc nghiệt của các triều đại phong kiến phương Bắc (Triệu, Hán, Tùy, Đường), văn hóa Việt Nam không những không bị hòa tan mà còn thể hiện sức sống vô cùng kiên cường. Bản sắc ấy được bảo vệ bằng máu qua hàng loạt cuộc khởi nghĩa vũ trang hào hùng như của Hai Bà Trưng (năm 40), Bà Triệu, Lý Bôn, cho đến chiến thắng Bạch Đằng lịch sử năm 938 của Ngô Quyền - mở đầu kỷ nguyên độc lập của đất nước, chấm dứt thời kỳ Bắc thuộc gần 1.000 năm. 
+
+Văn hóa Đại Việt (938 – thế kỷ XVIII)
+Bước vào kỷ nguyên độc lập tự chủ dưới các triều đại Ngô, Đinh, Tiền Lê, Lý, Trần, Lê, văn hóa Đại Việt đạt đến bước phát triển rực rỡ nhất.
+Đặc biệt, văn hóa quân sự giai đoạn này ghi dấu ấn đậm nét với tinh thần "Sát Thát" đánh tan ba lần quân Nguyên Mông và những ức vạn hùng văn như Bình Ngô đại cáo. Trong cuộc kháng chiến chống quân Tống xâm lược năm 1075 - 1077, bên phòng tuyến sông Như Nguyệt, Lý Thường Kiệt đã sáng tác bài thơ thần nổi tiếng “Nam quốc sơn hà”, đây được xem như bản “Tuyên ngôn đầu tiên” của dân tộc Việt Nam.
+
+Cho đến cuộc khởi nghĩa Lam Sơn do Lê Lợi, Nguyễn Trãi lãnh đạo đã phát huy cao độ sức mạnh của nhân dân, phát triển thành cuộc chiến tranh giải phóng dân tộc. Bài “Bình Ngô Đại Cáo” được coi là bản “Tuyên ngôn độc lập thứ hai” của dân tộc ta với lời khẳng định đanh thép:
+“Từ Triệu, Đinh, Lý, Trần, bao đời dựng nền độc lập
+Cùng Hán, Đường, Tống, Nguyên mỗi bên hùng cứ một phương
+Tuy mạnh yếu từng lúc khác nhau
+Song hào kiệt đời nào cũng có”
+
+Văn hóa Đại Nam (Thế kỷ XIX – 1945)
+Dưới thời nhà Nguyễn, lãnh thổ đất nước được quy tụ hoàn chỉnh từ Bắc vào Nam, tạo nên bước ngoặt mới cho diện mạo văn hóa dân tộc. Cùng với hành trình đấu tranh kiên cường các tầng lớp nhân dân để giành độc lập dân tộc.
+
+Thưa toàn thể các đồng chí!
+Văn hóa Hiện đại (Từ 1945 đến nay)
+Đến thời đại Hồ Chí Minh - Khởi đầu từ cột mốc Tuyên ngôn Độc lập ngày 2/9/1945, nước Việt Nam Dân chủ Cộng hòa ra đời. Nền văn hóa hiện đại gắn liền với sự nghiệp đấu tranh giải phóng dân tộc và xây dựng chủ nghĩa xã hội, dân tộc ta đã đánh tan hai cuộc chiến tranh xâm lược của thực dân Pháp và đế quốc Mỹ, hai tên thực dân, đế quốc hùng mạnh, sừng sỏ bậc nhất thế giới. 
+
+Có câu nói rằng, muốn biết một cuộc chiến tranh thắng hay bại, hãy nhìn vào ánh mắt người mẹ tiễn con ra trận. Hình ảnh tượng đài Bà Mẹ Việt Nam anh hùng Nguyễn Thị Thứ biểu tượng của gần 500 ngàn Bà Mẹ Việt Nam Anh hùng, là biểu trưng cho tinh thần bất khuất, kiên trung của người Phụ nữ Việt Nam. (Đây là công trình nghệ thuật tri ân những Bà Mẹ Việt Nam anh hùng và tưởng niệm các Anh hùng liệt sỹ đã hy sinh vì nền độc lập tự do của Tổ Quốc). 
+
+Thưa toàn thể các đồng chí!
+Tinh thần yêu nước của dân tộc Việt Nam được Hồ Chủ tịch đúc kết: “Dân ta có một lòng nồng nàn yêu nước, đó là một truyền thống quý báu của ta, từ xưa đến nay, mỗi khi Tổ quốc bị xâm lăng, thì tinh thần ấy lại sôi nỗi, nó kết thành một làn sóng vô cùng mạnh mẽ, to lớn, nó lướt qua mọi sự nguy hiểm, khó khăn, nó nhấn chìm tất cả lũ bán nước và lũ cướp nước”.
+
+Không chỉ là một đất nước anh hùng trong chiến tranh vệ quốc, Việt Nam còn là ngôi nhà chung của 54 dân tộc anh em. Các dân tộc coi nhau như ruột thịt, luôn đoàn kết, thương yêu đùm bọc lẫn nhau, cùng chung sức xây dựng và bảo vệ Tổ quốc.
+
+Thưa toàn thể các đồng chí!
+Hơn bốn ngàn năm dựng nước và giữ nước, dân tộc ta đã trải qua những năm tháng hào hùng nhưng cũng lắm gian truân. Trên biểu đồ “Dấu ấn lịch sử và văn hóa Việt Nam” đã thể hiện 41 mốc thời gian quan trọng, mang dấu ấn lịch sử sâu sắc trong quá trình hình thành và phát triển của đất nước, từ thời đại các vua Hùng đến khi đất nước ta giành được độc lập và bước vào thời kỳ đổi mới.
+
+Tiếp theo mời các đồng chí cùng đi dọc chiều dài đất nước để chiêm ngưỡng những nét đẹp văn hóa tiêu biểu:
+- Khuê Văn Các trong khu di tích Văn miếu Quốc Tử Giám, một biểu tượng của trí tuệ và chính là trường đại học đầu tiên của nước ta.
+- Vịnh Hạ Long nằm ở tỉnh Quảng Ninh, là một tuyệt tác nghệ thuật của tự nhiên với hàng nghìn đảo đá vôi kỳ vĩ và hệ thống hang động huyền ảo rải rác trên làn nước xanh ngọc bích. Nơi đây sở hữu những giá trị ngoại hạng toàn cầu, nổi bật với 3 lần được UNESCO vinh danh là Di sản Thiên nhiên Thế giới. 
+
+Kính thưa các đồng chí: 
+Nếu ai đó hỏi: Đâu là “nét vẽ diệu kỳ” nhất mà con người và thiên nhiên cùng tạo nên trên dải đất hình chữ S này, chúng ta sẽ không ngần ngại trả lời: Đó chính là những thửa ruộng bậc thang Tây Bắc – giá trị văn hóa dân gian, truyền thống nông nghiệp ngàn đời của dân tộc và trí tuệ của con người Việt Nam.
+- Cố đô Huế – thủ đô lịch sử của Việt Nam dưới triều đại nhà Nguyễn suốt 143 năm. Nơi đây chinh phục du khách bởi Quần thể di sản thế giới tráng lệ với Đại Nội, lăng tẩm uy nghiêm cùng dải sông Hương êm đềm trôi qua chùa Thiên Mụ cổ kính. 
+- Chợ Bến Thành không chỉ là trung tâm thương mại sầm uất mà còn là biểu tượng văn hóa - lịch sử sống động của TP. Hồ Chí Minh qua hơn một thế kỷ. 
+- Hang Sơn Đoòng nằm trong Vườn Quốc gia Phong Nha – Kẻ Bàng, tỉnh Quảng Trị được UNESCO công nhận là Di sản thiên nhiên thế giới vào năm 2003– và đến năm 2013 được công nhận là hang động tự nhiên lớn nhất thế giới. 
+- Di sản văn hóa Cồng chiêng Tây Nguyên được UNESCO ghi danh là Di sản văn hóa phi vật thể đại diện của nhân loại (2008). Rất vinh dự và tự hào khi Quân đoàn 34 được đứng trên mảnh đất Tây Nguyên hùng vĩ với nét đẹp độc đáo của con người nơi đây.
+- Di tích Tháp bà Ponagar ở Nha Trang, tỉnh Khánh Hòa là quần thể kiến trúc Chăm Pa lớn nhất Việt Nam hiện nay. 
+- Đua ghe Ngo – môn thể thao đặc trưng miền sông nước, một nét văn hóa đặc sắc của đồng bào Khơ Me miền Tây Nam Bộ.
+
+Thưa toàn thể các đồng chí!
+Khép lại mảng ảnh "Việt Nam Đất nước Con người", nhìn ngắm lại cội nguồn lịch sử hào hùng và vẻ đẹp gấm vóc của non sông, trong mỗi chúng ta hẳn đều trào dâng một niềm tự hào sâu sắc. Những di sản, những cảnh đẹp kỳ vĩ ấy không chỉ là tài sản vô giá của thiên nhiên, mà còn là kết tinh từ máu xương, mồ hôi và nước mắt của biết bao thế hệ cha anh đã ngã xuống để giữ gìn.
+
+Tuy nhiên, thưa các đồng chí! Trong bối cảnh hiện nay, công cuộc bảo vệ Tổ quốc không chỉ nằm ở việc giữ yên bờ cõi, biên cương hay hải đảo, mà còn là cuộc chiến cam go trên một mặt trận không có tiếng súng – đó là mặt trận tư tưởng và không gian mạng. Các thế lực thù địch vẫn luôn lợi dụng các phương tiện thông tin đại chúng, mạng xã hội để chống phá, xuyên tạc, gieo rắc những luồng thông tin độc hại nhằm chia rẽ khối đại đoàn kết toàn dân tộc, làm phai nhạt niềm tin của nhân dân vào sự lãnh đạo của Đảng và Nhà nước.
+
+Là những quân nhân cách mạng, những người mang trên mình màu xanh áo lính và phẩm chất cao quý của “Bộ đội Cụ Hồ”, hơn lúc nào hết, mỗi chúng ta phải là một "bức tường thành" vững chắc về tư tưởng. Chúng ta cần giữ cho mình “trái tim nóng và cái đầu lạnh” – không ngừng nâng cao nhận thức, mài sắc bản lĩnh chính trị để nhạy bén nhận diện và kiên quyết đấu tranh phản bác các quan điểm sai trái. Đồng thời, chính mỗi quân nhân phải là một hạt nhân lan tỏa, tuyên truyền, vận động nhân dân tin tưởng tuyệt đối vào đường lối, chủ trương của Đảng.
+
+Tình yêu Tổ quốc vĩ đại nhất luôn bắt nguồn từ những hành động thiết thực nhất. Mỗi chúng ta hãy ra sức học tập, rèn luyện, trau dồi đạo đức và năng lực, không quản ngại gian khổ, hy sinh, quyết tâm bảo vệ vững chắc thành quả cách mạng và xây dựng đất nước Việt Nam xã hội chủ nghĩa ngày càng phồn vinh, hạnh phúc.
+
+Kính thưa các đồng chí! Và để có được một nước Việt Nam độc lập, tự do, gấm vóc như ngày hôm nay, chúng ta đời đời ghi nhớ công ơn vĩ đại của vị Cha già dân tộc. Ngay sau đây, xin mời các đồng chí cùng di chuyển để tham quan Mảng ảnh số 3 với chủ đề “CHỦ TỊCH HỒ CHÍ MINH - CUỘC ĐỜI VÀ SỰ NGHIỆP”.`,
     imageSrc: "/images/panels/panel-02.jpg",
     audioSrc: "/audio/audio2.mp3",
     audioDuration: "05:16",
