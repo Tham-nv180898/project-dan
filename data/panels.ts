@@ -81,25 +81,21 @@ Sự phát triển vững mạnh của đất nước luôn gắn liền với s
 
 Trước mắt chúng ta là mảng ảnh với chủ đề “Chủ tịch Hồ Chí Minh – Cuộc đời và sự nghiệp”. Dưới dòng chữ đỏ rực rỡ, trang trọng tựa như một lời thề sắt son: “PHÁT HUY BẢN CHẤT CAO ĐẸP ‘BỘ ĐỘI CỤ HỒ’”, mảng ảnh khái quát những dấu mốc tiêu biểu trong cuộc đời, sự nghiệp cách mạng vĩ đại của Người; đồng thời làm nổi bật tư tưởng, đạo đức, phong cách mẫu mực của vị lãnh tụ kính yêu của dân tộc Việt Nam.
 
-Chủ tịch Hồ Chí Minh không chỉ là Người sáng lập, rèn luyện Đảng ta, Người khai sinh ra nước Việt Nam Dân chủ Cộng hòa, mà còn là biểu tượng sáng ngời của chủ nghĩa anh hùng cách mạng, ý chí độc lập dân tộc, khát vọng hòa bình, tự do và hạnh phúc cho Nhân dân. Cuộc đời và sự nghiệp của Người là bản anh hùng ca bất diệt, là nguồn sáng soi đường cho cách mạng Việt Nam hôm qua, hôm nay và mãi mãi về sau.
+Chủ tịch Hồ Chí Minh không chỉ là Người sáng lập, rèn luyện Đảng ta, Người khai sinh ra nước Việt Nam Dân chủ Cộng hoà, mà còn là biểu tượng sáng ngời của chủ nghĩa anh hùng cách mạng, ý chí độc lập dân tộc, khát vọng hòa bình, tự do và hạnh phúc cho Nhân dân. Cuộc đời và sự nghiệp của Người là bản anh hùng ca bất diệt, là nguồn sáng soi đường cho cách mạng Việt Nam hôm qua, hôm nay và mãi mãi về sau.
 
-Kết cấu của mảng ảnh và từng cụm ảnh:
 Thưa toàn thể các đồng chí!
 Mảng ảnh “Chủ tịch Hồ Chí Minh - cuộc đời và sự nghiệp” gồm 2 cụm:
 - Thứ nhất, cụm ảnh cuộc đời và sự nghiệp của Hồ Chí Minh (gồm 19 hình ảnh)
 - Thứ hai, cụm ảnh những nội dung cơ bản của tư tưởng, đạo đức, phong cách Hồ Chí Minh.
 
-Phân tích:
 Kính thưa các đồng chí!
-Chủ tịch Hồ Chí Minh của chúng ta sinh vào ngày 19 tháng 5 năm 1890 tại làng Hoàng Trù, xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An (nay là xã Kim Liên, tỉnh Nghệ An). Người sinh ra trong một gia đình nhà nho yêu nước, vùng quê giàu truyền thống cách mạng. Bác sinh ra trong cảnh nước mất, nhà tan, nhân dân ta đang chịu cảnh một cổ hai tròng và cách mạng nước ta đang khủng hoảng về đường lối cứu nước.
+Chủ tịch Hồ Chí Minh tên thời thơ ấu là Nguyễn Sinh Cung, sinh ngày 19/5/1890 tại làng Hoàng Trù, xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An (nay là xã Kim Liên, tỉnh Nghệ An) (Hình ảnh ngôi nhà ở quê ngoại Bác Hồ). Người sinh ra trong một gia đình nhà Nho yêu nước, vùng quê giàu truyền thống cách mạng. Cha là cụ Nguyễn Sinh Sắc (1862 – 1929). Mẹ là cụ Hoàng Thị Loan (1868 – 1901). Gia đình Bác có 3 anh chị em bao gồm bà Nguyễn Thị Thanh, ông Nguyễn Sinh Khiêm và em út là Nguyễn Sinh Thuận.
 
-Chính vì vậy vào ngày mùng 05 tháng 6 năm 1911, Bác đã lên con tàu Amiral Latouche Tréville rời bến cảng Nhà Rồng để đi tìm đường cứu nước.
+Chứng kiến cảnh nước mất nhà tan, các phong trào yêu nước kháng Pháp nổ ra liên tiếp nhưng đều thất bại vì chưa có một đường lối đúng đắn. Ngày 5/6/1911 với tên gọi mới là Văn Ba, Người đã lên tàu Amiran Latusơ Tơrêvin, rời bến cảng Nhà Rồng đi Mácxây (Pháp) bắt đầu hành trình tìm đường cứu nước.
 
-Thưa toàn thể các đồng chí, sau gần 10 năm bôn ba qua ba đại dương, bốn châu lục thì người đã tìm thấy con đường cứu nước, qua Luận cương về các vấn đề dân tộc và thuộc địa của Lênin, đó chính là con đường cách mạng vô sản. Đây là một bước ngoặt lớn trong con đường cách mạng của người, đồng thời là một dấu mốc lịch sử của Cách mạng Việt Nam.
-
-Sau hơn 30 năm bôn ba hoạt động cách mạng ở nước ngoài, ngày 28 tháng 01 năm 1941. Tại cột mốc 108 Hà Quảng, Cao Bằng, Chủ tịch Hồ Chí Minh của chúng ta đã về nước và trực tiếp chỉ đạo cách mạng nước ta. Dưới sự lãnh đạo tài tình của Đảng Cộng sản Việt Nam và Chủ tịch Hồ Chí Minh, cách mạng nước ta đã không ngừng trưởng thành và lớn mạnh, đi từ thắng lợi này tới thắng lợi khác.
-
-Như các đồng chí có thể quan sát, ở đây có rất nhiều những tấm ảnh về Chủ tịch Hồ Chí Minh, nhưng tôi tập trung giới thiệu các đồng chí hai bức ảnh có giá trị hình tượng hết sức sâu sắc.`,
+Thưa toàn thể các đồng chí!
+Từ năm 1912 - 1917, dưới cái tên Nguyễn Tất Thành, Hồ Chí Minh đến nhiều nước ở châu Á, châu Âu, châu Mỹ, châu Phi nhằm tìm đường cứu nước cho dân tộc.
+Năm 1919, lấy tên là Nguyễn Ái Quốc, thay mặt những người Việt Nam yêu nước tại Pháp, Hồ Chí Minh đã gửi tới Hội nghị Vécxây (Versailles) bản yêu sách của nhân dân An Nam.`,
     imageSrc: "/images/panels/panel-03.jpg",
     audioSrc: "/audio/audio3.mp3",
     audioDuration: "03:25",
