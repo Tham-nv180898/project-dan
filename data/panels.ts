@@ -436,7 +436,6 @@ Sau đây, mời các đồng chí di chuyển sang tham quan Mảng ảnh số 
     shortTitle: "MẢNG ẢNH 5: TUỔI TRẺ QUÂN ĐỘI",
     description: "Thưa toàn thể các đồng chí! Sinh thời, Chủ tịch Hồ Chí Minh luôn khẳng định: “Thanh niên là người chủ tương lai của nước nhà; thật vậy, nước nhà thịnh hay suy, yếu hay mạnh, một phần lớn phụ thuộc vào thanh niên”...",
     content: `Thưa toàn thể các đồng chí!
-
 Sinh thời, Chủ tịch Hồ Chí Minh luôn khẳng định: “Thanh niên là người chủ tương lai của nước nhà; thật vậy, nước nhà thịnh hay suy, yếu hay mạnh, một phần lớn phụ thuộc vào thanh niên”. Thấm nhuần lời dạy của Bác, những năm qua tuổi trẻ cả nước nói chung và tuổi trẻ Quân đội nói riêng luôn là lực lượng xung kích trong xây dựng và bảo vệ Tổ quốc. Để hiểu rõ hơn về truyền thống vẻ vang của thanh niên mời các đồng chí thăm quan mảng ảnh “Tuổi trẻ Quân đội phấn đấu xứng danh “Bộ đội Cụ Hồ” thời kỳ mới”.
 
 Thưa toàn thể các đồng chí!
@@ -445,14 +444,43 @@ Mảng ảnh “Tuổi trẻ Quân đội phấn đấu xứng danh “Bộ đ�
 - Thứ hai, tuổi trẻ Quân đội phấn đấu xứng danh “Bộ đội Cụ Hồ” thời kỳ mới
 
 Thưa toàn thể các đồng chí!
-Sau khi Đảng ra đời, Đảng đã thấy rõ tầm quan trọng của việc xây dựng tổ chức Đoàn, Tại hội nghị BCHTW lần thứ 2 họp từ ngày 20/3- 26/3/1931, Trung ương Đảng đã dành một ngày quyết định về vấn đề quan trọng trong công tác Thanh niên, từ đó lấy ngày 26/03 hàng năm là ngày thành lập Đoàn Thanh niên cộng sản Hồ Chí Minh.
+Sau khi Đảng ra đời, Đảng đã thấy rõ tầm quan trọng của việc xây dựng tổ chức Đoàn, Tại hội nghị BCHTW lần thứ 2 họp từ ngày 20/3- 26/3/1931, Trung ương Đảng đã dành một ngày quyết định về vấn đề quan trọng trong công tác Thanh niên, từ đó lấy ngày 26/03 hàng năm là ngày thành lập Đoàn Thanh niên cộng sản Hồ Chí Minh. 
 
-Nhận thấy vai trò to lớn của thanh niên, trước lúc người đi xa, Bác Hồ đã dặn dặn: “Đoàn viên và thanh niên ta nói chung là tốt, mọi việc đều hăng hái xung phong, không ngại khó khăn, có chí tiến thủ. Đảng cần phải chăm lo giáo dục đạo đức cách mạng cho họ, đào tạo họ thành những người thừa kế xây dựng xã hội chủ nghĩa vừa “Hồng”, vừa “Chuyên”. Bồi dưỡng thế hệ cách mạng cho đời sau là một việc rất quan trọng và rất cần thiết”.
+Nhận thấy vai trò to lớn của thanh niên, trước lúc người đi xa, Bác Hồ đã căn dặn: “Đoàn viên và thanh niên ta nói chung là tốt, mọi việc đều hăng hái xung phong, không ngại khó khăn, có chí tiến thủ. Đảng cần phải chăm lo giáo dục đạo đức cách mạng cho họ, đào tạo họ thành những người thừa kế xây dựng xã hội chủ nghĩa vừa “Hồng”, vừa “Chuyên”. Bồi dưỡng thế hệ cách mạng cho đời sau là một việc rất quan trọng và rất cần thiết”.
 
 Trong suốt hành trình 95 năm xây dựng và trưởng thành, Đoàn TNCS Hồ Chí Minh luôn tự hào là ngọn cờ đầu, là nơi hội tụ sức sống mãnh liệt của thanh niên Việt Nam qua các thế hệ, quá trình đó đã xây đắp nên truyền thống tiêu biểu của Thanh niên Việt Nam:
-Truyền thống yêu nước nồng nàn, gắn bó thiết tha, trung thành tuyệt đối với Đảng, với nhân dân và chế độ xã hội chủ nghĩa.
-Truyền thống của đội quân xung kích cách mạng, dám đón lấy những nhiệm vụ nặng nề, dám đi đến những nơi khó khăn, gian khổ, dám suy nghĩ sáng tạo... để hoàn thành nhiệm vụ được giao.
-Truyền thống gắn bó đoàn kết trong lớp người cùng lứa tuổi, trong các tổ chức Đoàn và Hội; đoàn kết gắn bó với nhân dân; thương yêu giúp đỡ lẫn nhau trong hoạn nạn, đặc biệt là vào những thời điểm phải đối mặt với kẻ thù hay thiên tai.`,
+- Truyền thống yêu nước nồng nàn, gắn bó thiết tha, trung thành tuyệt đối với Đảng, với nhân dân và chế độ xã hội chủ nghĩa.
+- Truyền thống của đội quân xung kích cách mạng, dám đón lấy những nhiệm vụ nặng nề, dám đi đến những nơi khó khăn, gian khổ, dám suy nghĩ sáng tạo… để hoàn thành nhiệm vụ được giao.
+- Truyền thống gắn bó đoàn kết trong lớp người cùng lứa tuổi, trong các tổ chức Đoàn và Hội; đoàn kết gắn bó với nhân dân; thương yêu giúp đỡ lẫn nhau trong hoạn nạn, đặc biệt là vào những thời điểm phải đối mặt với kẻ thù hay thiên tai.
+- Truyền thống hiếu học, ham hiểu biết để tự mình nâng cao trình độ chính trị, văn hóa, khoa học kỹ thuật, quản lý và quân sự… say mê sáng tạo trong hoạt động thực tiễn, để cống hiến cho sự nghiệp của dân tộc và của Đảng.
+
+Thưa toàn thể các đồng chí!
+Thanh niên Quân đội chúng ta là một bộ phận quan trọng của thanh niên cả nước, là lực lượng chủ yếu trong thực hiện nhiệm vụ của Quân đội và là đội dự bị tin cậy của Đảng Cộng sản Việt Nam. Đi qua hai cuộc trường kỳ kháng chiến của dân tộc, các thế hệ Thanh niên Việt Nam đã nối tiếp nhau lên đường tòng quân, lập nên biết bao chiến công hiển hách, xây đắp nên truyền thống quyết chiến, quyết thắng của Quốc đội Nhân dân Việt Nam anh hùng. 
+
+Tiêu biểu, năm tấm gương anh hùng liệt sĩ trẻ tuổi:
+- Đó là người thanh niên cộng sản Lý Tự Trọng với chân lý "Con đường của thanh niên chỉ có thể là con đường cách mạng".
+- Đó là nữ anh hùng Võ Thị Sáu hiên ngang mỉm cười trước họng súng quân thù.
+- Là anh hùng Phan Đình Giót lấy thân mình lấp lỗ châu mai, mở đường cho chiến thắng.
+- Là Nguyễn Văn Trỗi bất khuất trên pháp trường với tiếng thét "Còn giặc Mỹ thì không còn hạnh phúc".
+- Và Anh hùng Nguyễn Viết Xuân với mệnh lệnh "Nhằm thẳng quân thù mà bắn!" vang dội bầu trời.
+
+Họ thật xứng đáng đại diện cho một thế hệ trẻ quyết tử cho tổ quốc quyết sinh, không tiếc tuổi thanh xuân và máu xương của mình đóng góp không nhỏ và thắng lợi lịch sử của dân tộc, bồi đắp nên truyền thống của Đoàn thanh niên cộng sản Hồ Chí Minh nói chung và truyền thống của thanh niên quân đội nói riêng.
+
+Thưa toàn thể các đồng chí!
+Kế thừa và phát huy những truyền thống hào hùng của các thế hệ cha anh đi trước, Tuổi trẻ Quân đội ngày nay đang ra sức thi đua rèn đức, luyện tài, xung kích, sáng tạo, phấn đấu xứng danh “Bộ đội Cụ Hồ” thời kỳ mới, đem sức trẻ và lòng nhiệt huyết cách mạng của mình vào thực hiện các nhiệm vụ chính trị trong cơ quan, đơn vị, quân binh chủng, ngành trong toàn quân và đạt được rất nhiều thành tích xuất sắc, được thủ trưởng Bộ Quốc phòng, Đảng và Nhà nước ghi nhận. 
+
+Tiêu biểu đó là giải thưởng Tuổi Trẻ sáng tạo trong Quân đội được tổ chức hàng năm để tôn vinh các nhà sáng tạo trẻ đã có những sáng kiến cải tiến, công trình nghiên cứu khoa học được áp dụng và mang lại hiệu quả trong quá trình hoạt động của cơ quan đơn vị toàn quân. 
+Đó là hình ảnh Tuổi trẻ Quân đội tại đấu trường quốc tế Army games năm 2020, đội tuyển xe tăng hành tiến của Quân đội ta đã xuất sắc giành huy chương vàng tại bảng hai và được thăng hạng lên thi đấu tại bảng một cùng với các cường quốc quân sự trên thế giới, để lại rất nhiều ấn tượng tốt đẹp trong mắt bạn bè quốc tế.
+
+Kính thưa toàn thể các đồng chí!
+Vinh dự và tự hào được đứng trong hàng ngũ tuổi trẻ Quân đội, với tinh thần:
+“Đâu cần thanh niên có, việc gì khó có thanh niên.”
+
+Chúng ta hãy ra sức thi đua, rèn luyện cho mình bản lĩnh chính trị vững vàng, phẩm chất đạo đức trong sáng và trình độ, năng lực đáp ứng yêu cầu nhiệm vụ.
+Phấn đấu trở thành những người kế thừa xuất sắc sự nghiệp xây dựng và bảo vệ Tổ quốc; trở thành những con người vừa “hồng”, vừa “chuyên” như Bác Hồ hằng mong muốn.
+Hãy đem sức trẻ, lòng nhiệt huyết và tinh thần trách nhiệm của mình cống hiến cho sự trưởng thành, lớn mạnh của Quân đội và sự nghiệp xây dựng, bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.
+
+Sau đây, xin mời các đồng chí sang tham quan Mảng ảnh số 6.`,
     imageSrc: "/images/panels/panel-05.jpg",
     audioSrc: "/audio/audio5.mp3",
     audioDuration: "15:50",
