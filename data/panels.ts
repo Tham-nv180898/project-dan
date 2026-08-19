@@ -137,19 +137,17 @@ Thưa toàn thể các đồng chí, cách đây gần 82 năm, chấp hành ch�
     description: "Thưa toàn thể các đồng chí! Sinh thời, Chủ tịch Hồ Chí Minh luôn khẳng định: “Thanh niên là người chủ tương lai của nước nhà; thật vậy, nước nhà thịnh hay suy, yếu hay mạnh, một phần lớn phụ thuộc vào thanh niên”...",
     content: `Thưa toàn thể các đồng chí!
 
-Sinh thời, Chủ tịch Hồ Chí Minh luôn khẳng định: “Thanh niên là người chủ tương lai của nước nhà; thật vậy, nước nhà thịnh hay suy, yếu hay mạnh, một phần lớn phụ thuộc vào thanh niên”. Thấm nhuần lời dạy của Bác, những năm qua tuổi trẻ cả nước nói chung và tuổi trẻ Quân đội nói riêng luôn là lực lượng xung kích trong xây dựng và bảo vệ Tổ quốc. Để hiểu rõ hơn về truyền thống vẻ vang của thanh niên mời các đồng chí tham quan bảng ảnh “Tuổi trẻ Quân đội phấn đấu xứng danh “Bộ đội Cụ Hồ” thời kỳ mới”.
+Sinh thời, Chủ tịch Hồ Chí Minh luôn khẳng định: “Thanh niên là người chủ tương lai của nước nhà; thật vậy, nước nhà thịnh hay suy, yếu hay mạnh, một phần lớn phụ thuộc vào thanh niên”. Thấm nhuần lời dạy của Bác, những năm qua tuổi trẻ cả nước nói chung và tuổi trẻ Quân đội nói riêng luôn là lực lượng xung kích trong xây dựng và bảo vệ Tổ quốc. Để hiểu rõ hơn về truyền thống vẻ vang của thanh niên mời các đồng chí thăm quan mảng ảnh “Tuổi trẻ Quân đội phấn đấu xứng danh “Bộ đội Cụ Hồ” thời kỳ mới”.
 
-Kết cấu của mảng ảnh và từng cụm ảnh:
 Thưa toàn thể các đồng chí!
 Mảng ảnh “Tuổi trẻ Quân đội phấn đấu xứng danh “Bộ đội Cụ Hồ” thời kỳ mới” được kết cấu thành 2 cụm ảnh:
 - Thứ nhất, cụm ảnh truyền thống của Đoàn TNCS Hồ Chí Minh và Thanh niên Quân đội
 - Thứ hai, tuổi trẻ Quân đội phấn đấu xứng danh “Bộ đội Cụ Hồ” thời kỳ mới
 
-Phân tích:
 Thưa toàn thể các đồng chí!
-Sau khi Đảng ra đời, Đảng đã thấy rõ tầm quan trọng của việc xây dựng tổ chức Đoàn. Tại hội nghị BCHTW lần thứ 2 họp từ ngày 20/3 - 26/3/1931, Trung ương Đảng đã dành một ngày quyết định về vấn đề quan trọng trong công tác Thanh niên, từ đó lấy ngày 26/03 hàng năm là ngày thành lập Đoàn Thanh niên cộng sản Hồ Chí Minh.
+Sau khi Đảng ra đời, Đảng đã thấy rõ tầm quan trọng của việc xây dựng tổ chức Đoàn, Tại hội nghị BCHTW lần thứ 2 họp từ ngày 20/3- 26/3/1931, Trung ương Đảng đã dành một ngày quyết định về vấn đề quan trọng trong công tác Thanh niên, từ đó lấy ngày 26/03 hàng năm là ngày thành lập Đoàn Thanh niên cộng sản Hồ Chí Minh.
 
-Nhận thấy vai trò to lớn của thanh niên, trước lúc người đi xa, Bác Hồ đã dặn dò: “Đoàn viên và thanh niên ta nói chung là tốt, mọi việc đều hăng hái xung phong, không ngại khó khăn, có chí tiến thủ. Đảng cần phải chăm lo giáo dục đạo đức cách mạng cho họ, đào tạo họ thành những người thừa kế xây dựng xã hội chủ nghĩa vừa “Hồng”, vừa “Chuyên”. Bồi dưỡng thế hệ cách mạng cho đời sau là một việc rất quan trọng và rất cần thiết”.
+Nhận thấy vai trò to lớn của thanh niên, trước lúc người đi xa, Bác Hồ đã dặn dặn: “Đoàn viên và thanh niên ta nói chung là tốt, mọi việc đều hăng hái xung phong, không ngại khó khăn, có chí tiến thủ. Đảng cần phải chăm lo giáo dục đạo đức cách mạng cho họ, đào tạo họ thành những người thừa kế xây dựng xã hội chủ nghĩa vừa “Hồng”, vừa “Chuyên”. Bồi dưỡng thế hệ cách mạng cho đời sau là một việc rất quan trọng và rất cần thiết”.
 
 Trong suốt hành trình 95 năm xây dựng và trưởng thành, Đoàn TNCS Hồ Chí Minh luôn tự hào là ngọn cờ đầu, là nơi hội tụ sức sống mãnh liệt của thanh niên Việt Nam qua các thế hệ, quá trình đó đã xây đắp nên truyền thống tiêu biểu của Thanh niên Việt Nam:
 Truyền thống yêu nước nồng nàn, gắn bó thiết tha, trung thành tuyệt đối với Đảng, với nhân dân và chế độ xã hội chủ nghĩa.
