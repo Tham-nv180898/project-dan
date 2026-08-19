@@ -107,21 +107,19 @@ Năm 1919, lấy tên là Nguyễn Ái Quốc, thay mặt những người Việ
     slug: "ma-04",
     title: "MẢNG ẢNH 4: QUÂN ĐỘI TA TRUNG VỚI ĐẢNG, HIẾU VỚI DÂN, SẴN SÀNG CHIẾN ĐẤU, HI SINH VÌ ĐỘC LẬP TỰ DO CỦA TỔ QUỐC, VÌ CHỦ NGHĨA XÃ HỘI, NHIỆM VỤ NÀO CŨNG HOÀN THÀNH, KHÓ KHĂN NÀO CŨNG VƯỢT QUA, KẺ THÙ NÀO CŨNG ĐÁNH THẮNG",
     shortTitle: "MẢNG ẢNH 4: QUÂN ĐỘI TA TRUNG VỚI ĐẢNG",
-    description: "Kính thưa các đồng chí! Trưởng thành từ ngọn lửa cách mạng dưới sự dẫn dắt của Chủ tịch Hồ Chí Minh, Quân đội ta là minh chứng sống động cho sức mạnh của một dân tộc anh hùng. Trân trọng kính mời các đồng chí tham quan bảng ảnh...",
+    description: "Kính thưa các đồng chí! Trưởng thành từ ngọn lửa cách mạng dưới sự dẫn dắt của Chủ tịch Hồ Chí Minh, Quân đội ta là minh chứng sống động cho sức mạnh của một dân tộc anh hùng. Trân trọng kính mời các đồng chí thăm quan mảng ảnh...",
     content: `Kính thưa các đồng chí!
 
 Trưởng thành từ ngọn lửa cách mạng dưới sự dẫn dắt của Chủ tịch Hồ Chí Minh, Quân đội ta là minh chứng sống động cho sức mạnh của một dân tộc anh hùng. Mọi chiến công lừng lẫy trên chặng đường lịch sử đều kết tinh từ tư tưởng và những lời dặn dò soi đường của Bác.
 
-Trân trọng kính mời các đồng chí tham quan bảng ảnh: “Quân đội ta trung với Đảng, hiếu với dân, sẵn sàng chiến đấu, hi sinh vì độc lập tự do của Tổ quốc, vì chủ nghĩa xã hội, nhiệm vụ nào cũng hoàn thành, khó khăn nào cũng vượt qua, kẻ thù nào cũng đánh thắng”.
+Trân trọng kính mời các đồng chí thăm quan mảng ảnh: “Quân đội ta trung với Đảng, hiếu với dân, sẵn sàng chiến đấu, hi sinh vì độc lập tự do của Tổ quốc, vì chủ nghĩa xã hội, nhiệm vụ nào cũng hoàn thành, khó khăn nào cũng vượt qua, kẻ thù nào cũng đánh thắng”.
 
-Kết cấu của mảng ảnh và từng cụm ảnh:
 Thưa toàn thể các đồng chí!
 Mảng ảnh “Quân đội ta trung với Đảng, hiếu với dân, sẵn sàng chiến đấu, hi sinh vì độc lập tự do của Tổ quốc, vì chủ nghĩa xã hội, nhiệm vụ nào cũng hoàn thành, khó khăn nào cũng vượt qua, kẻ thù nào cũng đánh thắng” được kết cấu thành 3 cụm ảnh:
 - Thứ nhất, cụm ảnh quá trình ra đời, chiến đấu và trưởng thành của Quân đội nhân dân Việt Nam
 - Thứ hai, cụm ảnh xây dựng Quân đội nhân dân Việt Nam cách mạng, chính quy, tinh nhuệ, hiện đại
 - Thứ ba, cụm ảnh những nét tiêu biểu về bản chất cách mạng và truyền thống vẻ vang của QĐND Việt Nam
 
-Phân tích:
 Thưa toàn thể các đồng chí, “Quân đội ta trung với Đảng, hiếu với dân, sẵn sàng chiến đấu, hi sinh vì độc lập tự do của Tổ quốc, vì chủ nghĩa xã hội, nhiệm vụ nào cũng hoàn thành, khó khăn nào cũng vượt qua, kẻ thù nào cũng đánh thắng”, đó là lời khen tặng của Chủ tịch Hồ Chí Minh dành cho Quân đội ta nhân kỷ niệm 20 năm thành lập QĐNDVN, 22/12/1964. Và lời khen tặng đó đã trở thành bản chất cách mạng truyền thống vẻ vang của Quân đội ta, là chuẩn mực “Bộ Đội Cụ Hồ” mà lớp lớp các hệ cán bộ, chiến sĩ trong Quân đội đang ra sức phấn đấu, giữ gìn và phát huy.
 
 Thưa toàn thể các đồng chí, cách đây gần 82 năm, chấp hành chỉ thị của Hội nghị quân sự cách mạng Bắc Kỳ và Chủ tịch Hồ Chí Minh, ngày 22 tháng 12 năm 1944, Đội Việt Nam Tuyên truyền Giải phóng quân, tổ chức tiền thân của Quân đội Nhân dân Việt Nam được thành lập tại Châu Nguyên Bình, tỉnh Cao Bằng (nay là xóm Nà Sang, xã Tam Kim, tỉnh Cao Bằng). Mặc dù quân số ít, vũ khí trang bị hạn chế, nhưng dưới sự lãnh đạo, giáo dục, rèn luyện tài tình của Đảng và Chủ tịch Hồ Chí Minh, Quân đội ta đã không ngừng trưởng thành và lớn mạnh, cùng với toàn Đảng, toàn dân vượt qua muôn vàn khó khăn, thử thách.`,
